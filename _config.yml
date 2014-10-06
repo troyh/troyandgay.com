@@ -3,8 +3,8 @@ title: T & G
 email: troy.hakala@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   The site for our friends, family and stalkers.
-baseurl: "/troyandgay.com" # the subpath of your site, e.g. /blog/
-url: "http://troyh.github.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://troyandgay.com" # the base hostname & protocol for your site
 twitter_username: troy_h
 github_username:  troyh
 
