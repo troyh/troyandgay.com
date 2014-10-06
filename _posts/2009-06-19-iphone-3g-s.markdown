@@ -1,0 +1,49 @@
+---
+author: troyh
+comments: true
+date: 2009-06-19 21:33:49+00:00
+layout: post
+slug: iphone-3g-s
+title: iPhone 3G S
+wordpress_id: 3693
+---
+
+We got our new iPhones today. But once again, AT&T is [unable to handle the number of activations](http://news.cnet.com/8301-13579_3-10269270-37.html) so mine has no service and may not for 48 hours:
+
+[![Waiting for activation](http://farm4.static.flickr.com/3393/3641564483_de02832558.jpg)](http://www.flickr.com/photos/troyh/3641564483/)
+
+We skipped the iPhone 3G last year so this feels like a big improvement over the original iPhone. I wasn't even that excited about this one, though, since I am still very happy with my iPhone (because it's the greatest device ever made!). But the improved camera and video made it compelling to me because too often I don't have a camera handy, but I always have my iPhone, when I want to snap a photo of the kids. The video isn't HD, but low-quality video is better than no video.
+
+Interestingly, the [hardware in the iPhone 3G S can support HD](http://www.electronista.com/articles/09/06/19/iphone.3g.s.teardown/) (720p) video so they may add it later via a software update.
+
+<!-- more -->
+
+**Update:** It seems that [the problem is with Apple](http://www.appleinsider.com/articles/09/06/19/apple_warns_iphone_3g_s_activations_may_take_up_to_2_days.html), not AT&T since it's happening worldwide, not just on AT&T's network in the US. I called AT&T's customer service and was told that "the order for my activation hasn't even reached them yet", implying that it's stuck somewhere else, presumably at Apple. Apple makes great hardware and software, but boy do [they suck at providing services](http://troyandgay.com/blog/2008/07/23/apples-mobileme-outage/).
+
+**Jun 20 10am Update:** It's been 24 hours now and I still have no cellular service. I called AT&T for the 3rd time and they refunded my $18 activation fee, at least. They confirmed to me that Apple is the problem -- Apple's servers that handle activations through iTunes are not working or are "overloaded". It seems unlikely that they're overloaded, all they're doing is sending my phone's info to AT&T. My guess is that Apple's IT staff handling iPhone activations is as inept as the IT staff that handles MobileMe and they just can't figure out what the problem is. AT&T is no longer saying "48 hours" either, two customer service reps told me that they don't have any idea when it'll be fixed and apologized for the problem.
+
+**Jun 20 12pm Update:** _After 26 hours, I got activated!_ After reading on the internets that you should really make sure that AT&T has the correct SIM number for your SIM card, I called AT&T a 4th time. Sure enough, someone mistyped the SIM card when I called yesterday. The AT&T rep, Ashley Bartlett, fixed it and in seconds, my phone was activated! Had I not done this myself I don't think my phone ever would have been activated.
+
+A few minutes later, I got this text message from AT&T:
+
+bq. AT&T Free Msg: Your data plan is not eligible for iPhone 3G. To prevent excess charges and enable Visual VM, please call 611 to add a Data Plan for iPhone.
+
+Hmm... I called them for the 5th time, explained the situation and got my account corrected. All of this mess was caused by Apple, they never sent my upgrade info to AT&T so AT&T never knew to activate my new phone and change my data plan. I like that Apple is trying to automate the process and not require that iPhone users have to contact the cellular provider's customer service to get activated, but after 2 years they should have worked out the kinks. They've had 3 iPhone launches and all have been rife with activation problems -- I was affected by two of the three, I had a bricked iPhone for 24 hours after the iPhone 2.0 software update last year. I hope the fourth next year goes better.
+
+**Jun 20 8:26pm Update:** I got this email from Apple telling me I'm activated:
+
+
+
+<blockquote>Dear Apple Customer,
+We appreciate your recent iPhone purchase at the Apple Store.
+Congratulations! Your iPhone activation has been completed.
+For your reference, the Activation ID of the completed order is: XXXXXXXXXXXXXXXX.
+Thank you for shopping at the Apple Store!
+Sincerely,
+The Apple Store Team</blockquote>
+
+
+
+Not even an apology for their screw-up.
+
+**Jun 21 Update:** Apple [notified people](http://reviews.cnet.com/8301-19512_7-10269855-233.html) who have to wait more than 48 hours for their phone to activate and gave them $30 credits at the iTunes store. For those of us who only had to wait 26 hours, nothing, not even an apology.

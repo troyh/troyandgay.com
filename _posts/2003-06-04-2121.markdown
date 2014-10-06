@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-06-04 17:42:15+00:00
+layout: post
+slug: '2121'
+title: No Content Found
+wordpress_id: 2121
+---
+
+We spent all day yesterday in Seattle dealing with an ugly issue and annoying people. But at least we got a free lunch out of it.

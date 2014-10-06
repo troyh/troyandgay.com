@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2004-10-24 18:21:12+00:00
+layout: post
+slug: '2876'
+title: No Content Found
+wordpress_id: 2876
+---
+
+Christian Science Monitor's article "How bin Laden Got Away":http://www.csmonitor.com/2002/0304/p01s03-wosc.html: "In retrospect, it becomes clear that the battle's underlying story is of how scant intelligence, poorly chosen allies, and dubious military tactics fumbled a golden opportunity to capture bin Laden as well as many senior Al Qaeda commanders."

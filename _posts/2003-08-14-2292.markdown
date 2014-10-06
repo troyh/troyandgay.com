@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-08-14 01:43:51+00:00
+layout: post
+slug: '2292'
+title: No Content Found
+wordpress_id: 2292
+---
+
+[Print is dying](http://cbs.marketwatch.com/news/story.asp?guid=%7B6E299F55-84A7-40A1-A4AC-57B8B4D3A777%7D&siteid=google&dist=google) in favor of the web and [Recipezaar](http://recipezaar.com) and [MyWireService](http://mywireservice.com) are right in the middle of it.

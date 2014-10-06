@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2004-03-20 14:26:46+00:00
+layout: post
+slug: '2609'
+title: No Content Found
+wordpress_id: 2609
+---
+
+[Just like yesterday's ARIA announcement](http://www.troyandgay.com/archives/2004/03/001947.php#001947), independent music stores say that file-sharing is not hurting business either: _"The file sharing, the Internet -- just makes them music junkies," Wiley said._

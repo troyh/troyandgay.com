@@ -1,0 +1,15 @@
+---
+author: troyh
+comments: true
+date: 2005-02-28 19:00:59+00:00
+layout: post
+slug: ganglia
+title: Ganglia
+wordpress_id: 3011
+---
+
+Several weeks ago, we started using [Ganglia](http://ganglia.sourceforge.net/) to monitor all our servers. And I'm glad I did. For years we used a home-made system built on [sysstat](http://perso.wanadoo.fr/sebastien.godard/) and [RRDTool](http://people.ee.ethz.ch/~oetiker/webtools/rrdtool/) and it served its purpose, but then I discovered Ganglia. Our old system gave us performance statistics on a 10-minute delay but Ganglia is almost live, which is very helpful to see what's happening _now_. It's also much easier to setup, just apt-get ganglia-monitor, edit the /etc/gmond.conf file (if necessary) and a new server is being monitored. It's that easy (if you use [Debian](http://debian.org)).
+
+
+
+Ganglia was originally funded by the place I interned for while in college (and, not coincidentally, my dad's employer for 25 years), the [National Science Foundation](http://nsf.gov). That's good government at work! :)

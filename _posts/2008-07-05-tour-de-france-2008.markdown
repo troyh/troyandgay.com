@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2008-07-05 19:37:52+00:00
+layout: post
+slug: tour-de-france-2008
+title: Tour de France 2008
+wordpress_id: 3393
+---
+
+The "Tour de France":http://letour.fr/ kicked off today. No Americans are likely to win this year, though. See the Google Maps "street view of the entire Tour":http://google-au.blogspot.com/2008/07/check-out-tour-de-france-using-street.html.

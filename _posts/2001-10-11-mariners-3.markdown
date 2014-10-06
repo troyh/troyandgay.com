@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: false
+date: 2001-10-11 11:18:00+00:00
+layout: post
+slug: mariners-3
+title: Mariners
+wordpress_id: 1411
+---
+
+Mariners won 2nd game, 5-1. I'm a sports dork.

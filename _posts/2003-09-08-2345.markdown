@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-09-08 18:53:46+00:00
+layout: post
+slug: '2345'
+title: No Content Found
+wordpress_id: 2345
+---
+
+Old news, but I just found out that my college got its second [Nobel Prize for Economics](http://www.nobel.se/economics/laureates/index.html), awarded to [Vernon L. Smith](http://www.gmu.edu/departments/economics/facultybios/smith.html). [George Mason University](http://www.gmu.edu) is the only university in Virginia to have two Nobel prize winners. I'm surprised that neither [University of Virginia](http://virginia.edu) nor [Virginia Tech](http://www.vt.edu) have two Nobel Prize winners. The school now has 27,500 students (!), the average GPA for enrolled students is 3.3 and the average SAT is 1120; I could barely still get accepted. Can you tell I just got my Alumni newsletter?

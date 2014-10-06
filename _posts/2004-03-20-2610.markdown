@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2004-03-20 14:35:27+00:00
+layout: post
+slug: '2610'
+title: No Content Found
+wordpress_id: 2610
+---
+
+[Rumsfeld on 9/12](http://story.news.yahoo.com/news?tmpl=story2&u=/ap/20040320/ap_on_go_pr_wh/terrorism_adviser): _"Rumsfeld was saying we needed to bomb Iraq," Clarke said. "We all said, 'But no, no, al-Qaida is in Afghanistan." Rumsfeld complained that "there aren't any good targets in Afghanistan and there are lots of good targets in Iraq."_

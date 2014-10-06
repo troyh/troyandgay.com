@@ -1,0 +1,31 @@
+---
+author: troyh
+comments: true
+date: 2011-05-27 07:19:58+00:00
+layout: post
+slug: hot-tub-and-house-update
+title: Hot tub and house update
+wordpress_id: 5793
+categories:
+- Our Life
+tags:
+- capitolhillhouse
+---
+
+We're working on the plans for the house's backyard, so it's time to order the hot tub. We went over to Bellevue to [Rich's](http://www.richshome.com/locations.asp?map=Bellevue) to see [Clearwater Spas](http://www.clearwaterspas.com/index.cfm) and then to Aqua-Quip to see [Sundance Spas](http://www.sundancespas.com/). We were essentially decided on a Clearwater Spas hot tub but wanted to see them all in-person and select the exact model and check out the color options before committing. We didn't like the Sundance Spas, so we stuck with Clearwater. They've all got Memorial Day sales (it's not just for mattresses anymore, I guess) right now but it turns out that Clearwater Spas, a local company, is at Costco this week selling them directly. Rich's would sell it for about $2,000 off their normal price, but we saved an additional $3000 off Rich's price. $5,000 will buy lots of beer -- I love you, Costco!
+
+[![IMG_7157](http://farm4.static.flickr.com/3508/5765910878_727cc341b1.jpg)](http://www.flickr.com/photos/troyh/5765910878/)
+
+<!-- more -->
+
+Hot tubs are a weird market. Not many people buy them, as opposed to something like TVs, and of the people that do buy them, they only buy one or two in their lifetime, so there's not a lot of good information or reviews about hot tubs. This makes it hard to separate the good from the bad. This leads me to believe that they're all not very good. They certainly still look ugly with their fake plastic wood sides (note to manufacturers: you're not fooling anyone, we all know it's plastic. Embrace it and stop trying to make it look like wood.) and there's been some (arguable) progress in the chlorine smell, maintenance headaches and operating costs. Our decision was based on the seating options, the number of jets and, as best as we can tell, how reputable the company is. And price, of course. We figure all hot tubs will need repairs eventually, so we just need to be able to get the replacement parts. Clearwater is local and if we buy directly from them, they do the repairs themselves, which seems better than the hit-or-miss service you get from a dealer. Clearwater seems to be higher-end, but still doesn't have the reputation that Jacuzzi, Sundance and Hot Springs do, but again, it's hard to tell if you're paying more for them because of the quality or because of better marketing.
+
+Most of the hot tubs that Schuchart/Dow installs are custom-made and accompany a pool. We don't have a pool and all the construction labor and equipment to subsidize the cost of the hot tub, so building a custom hot tub would be at least twice as expensive as buying a manufactured hot tub, and that's without the design costs. A custom hot tub would also not have the contoured seating that a manufactured one has and it'd be harder to find a repairman for a custom hot tub. So we went with a manufactured one. We planned to use the house's boiler and a heat exchanger that we've already installed in the house to heat the hot tub and avoid the electricity costs of heating a hot tub too, but we discovered that that will void the manufacturer's warranty since they are self-contained units. Hot tub manufacturers cite a $10-17/mo cost to keep a hot tub heated 24x7 and argue that they're so efficient these days, there's no reason to use a heat exchanger. It's plausible if they're insulated well, but I will be shocked if it costs that little in reality. The heat exchanger would have essentially been free. Fortunately, our HVAC contractor, Premier, who has been fantastic throughout the project, is willing to remove the heat exchanger and refund us the cost.
+
+We went to the house to check on the progress. It's still mostly painting that's going on so not a lot is happening. They built the island top to hold the marble so we can now see the actual size of the island (it's big!), they're building the laundry room shelving and appliances are being installed. The heating pipes in the basement were painted and we've been wary of the color that the designers picked, a purplish/greyish color. I don't understand why we can't just pick a simple black, but I trust their opinions on color over my own. But I saw it and hated it -- it was brown! After a bit of head-scratching, we figured out that the painters used the wrong color. Every sub-contractor has been great so far, but Mark's been having trouble with the painters almost from the beginning and we got a firsthand look at how they all pointed fingers at each other and offered excuses for using the wrong color.
+
+Aside: I've never understood why humans spend so much energy denying mistakes and so little fixing mistakes. It's as if they try to pretend they're perfect and admitting to a mistake is a crack in their facade. No (intelligent) person has ever been convinced another person is perfect, so you look like a jackass pretending to be. Besides, mistakes always happen, so if you haven't made a mistake, you haven't done much work. And mistakes are the best way to learn, so if you haven't made a mistake, you haven't had the opportunity to learn, so you're probably bad at what you do. So be proud of your mistakes, learn from them and everyone's better-off (and there's a lot less whining and resentment).
+
+After wasting 5 minutes listening to three guys try to avoid blame, Mark found the can with the correct color and, because it was quittin' time, there was a short struggle to get them to paint some of it on the pipes now so we could see it and decide on the color once and for all. I was getting tired of their finger-pointing and was about to open the can and do the sample myself, but Mark said he wanted to make the laziest guy do it. If they hadn't wasted 5 minutes denying the mistake, they could have taken 30 seconds to paint a sample of the correct color and left 4.5 minutes earlier.
+
+After that was all done and as the paint dried, I still didn't like the color. Mark says that Tom Kundig always uses one black (like he always uses one white that we're using for the walls) so we're going to get a sample of that and compare it. I'll be surprised if Tom's color isn't the right color.

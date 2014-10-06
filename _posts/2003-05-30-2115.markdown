@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-05-30 04:00:29+00:00
+layout: post
+slug: '2115'
+title: No Content Found
+wordpress_id: 2115
+---
+
+Yep, we did have an earthquake. [A 3.4 near Port Orchard, WA](http://earthquake.usgs.gov/recenteqsUS/Quakes/uw05300350.htm). Lots of [reports](http://pasadena.wr.usgs.gov/shake/STORE/X5300350/ciim_stats_1.html) already, 6 even from Vashon. This is the 4th quake I've felt since living in Seattle: 2 tiny (including this one), 1 small and 1 HUGE.

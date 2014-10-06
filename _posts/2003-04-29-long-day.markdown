@@ -1,0 +1,13 @@
+---
+author: troyh
+comments: true
+date: 2003-04-29 07:44:15+00:00
+layout: post
+slug: long-day
+title: Long day
+wordpress_id: 2037
+---
+
+After the longest outage in Recipezaar history (almost 4 hours), Gay & I just got back from downtown Seattle after installing another new machine with a 120GB hard drive. This should be enough for the new caching system (for now). In case anyone doesn't know, standing in a loud server room with the air conditioning blasting so much you get a headache from the cold, cramped between rack cases and no chair in sight is not a fun place to spend a few hours.
+
+Since we had some time before the next ferry home, we stopped at a brewpub we discovered weeks ago in West Seattle. They have a really good Pale Ale that I really like and very good food for pub food. Beer is good. 5 minutes before the ferry left, we realized the time and bolted out the door and made the last few miles to the ferry dock in 4 minutes and was the last car on the ferry.

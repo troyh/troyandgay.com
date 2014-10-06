@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-10-01 20:42:46+00:00
+layout: post
+slug: '2391'
+title: No Content Found
+wordpress_id: 2391
+---
+
+[Another kid shot by a kid](http://www.cnn.com/2003/US/West/10/01/school.shooting.ap/index.html) at school.

@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-09-01 16:45:41+00:00
+layout: post
+slug: '2331'
+title: No Content Found
+wordpress_id: 2331
+---
+
+Using [MyWireService](http://mywireservice.com) is an incredibly interesting thing... today's Labor Day in the US, so there's very little news in the US. The big news is that [Charles Bronson died](http://www.nytimes.com/2003/09/01/obituaries/01BRON.html?ex=1377835200&en=c368734b32d384f2&ei=5007&partner=USERLAND). But in Europe, the big headlines are all about [David Kelly](http://www.guardian.co.uk/Politics/kelly/story/0,13747,1033585,00.html?=rss) and that [Libya has agreed to a settlement payout](http://news.bbc.co.uk/go/click/rss/0.91/public/-/1/hi/world/europe/3196609.stm) for the 1989 [Lockerbie bombing](http://www.cnn.com/LAW/trials.and.cases/case.files/0010/lockerbie/) (it'll probably take them another 14 years to actually pay). It's amazing how I can get up-to-speed on the news of the day in less than 10 minutes by visiting one web site.

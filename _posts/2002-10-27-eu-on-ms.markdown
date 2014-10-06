@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2002-10-27 16:20:18+00:00
+layout: post
+slug: eu-on-ms
+title: EU on MS
+wordpress_id: 1737
+---
+
+If the US doesn't correct MS' behavior, then it looks like the EU will. [EU Sees Preliminary  Decision Late '02](http://www.reuters.com/news_article.jhtml;jsessionid=05BKTUHYQMF4ICRBAEZSFFA?type=technologynews&StoryID=1635050).

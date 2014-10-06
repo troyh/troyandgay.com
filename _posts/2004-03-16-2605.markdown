@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2004-03-16 17:16:12+00:00
+layout: post
+slug: '2605'
+title: No Content Found
+wordpress_id: 2605
+---
+
+[HP selling desktops in Asia with Linux pre-installed](http://www.internetnews.com/ent-news/article.php/3326521). I predict Dell will follow suit and all OEMs will be selling Linux pre-installed on PCs in the US soon. Tipping point?

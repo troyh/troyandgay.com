@@ -1,0 +1,13 @@
+---
+author: troyh
+comments: true
+date: 2003-07-10 17:50:28+00:00
+layout: post
+slug: '2224'
+title: No Content Found
+wordpress_id: 2224
+---
+
+[![letour2003.gif](http://www.troyandgay.com/archives/letour2003.gif)](http://letour.fr/)The NY Times has an [interesting article](http://www.nytimes.com/2003/07/10/technology/circuits/10howw.html?th) on what it takes to cover the Tour de France. I am very thankful for [OLN](http://olntv.com). I remember when a 10 minute summary of each week was broadcast on Wide World of Sports every weekend. Then ESPN started doing 30 minutes a day of the highlights, with some days extended to 60 minutes. Then OLN picked it up a few years ago and they show 150 minutes every day of live coverage plus this year they have a 30-minute pre-race show each day. And the famous Phil "_They're sharpening their legs now!_" Liggett and Paul Sherwen make it even better.
+
+And thanks to [TiVo](http://tivo.com), I get to see it every evening instead of watching it at 6:30am due to the time difference between the US and France. Before TiVo, I had to set the VCR to record it every day (and you know how painful it is to program VCRs) and it was broadcast at different times on different days so I'd often goof and miss it or it'd get delayed by another sporting event. TiVo is smart enough to just record the entire Tour with just a press of a button regardless of when it is broadcast. _Technology!_

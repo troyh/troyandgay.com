@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2004-01-30 18:17:33+00:00
+layout: post
+slug: sterster
+title: SterSter
+wordpress_id: 2558
+---
+
+I was into [Friendster](http://www.friendster.com) for about an hour once.  Fun to try to look up old friends and to just see a collection of photos of current friends.  The most joy I got out of it was to find out that two of my friends knew each other completely independent of me, and that wasn't even exciting enough to blog.  Now Google starts one of these damn sites and every one is falling all over themselves about it.  I don't get it, but I'm not single anymore either, and these seem to be a lot like reading the "I Saw Yous" in [The Stranger](http://www.thestranger.com).  Though I do believe Google just throws stuff on the wall to see what sticks, I still think [there are some an interesting theories about it](http://jeremy.zawodny.com/blog/archives/001504.html), but my own take remains [a lot less optimistic](http://www.kottke.org/04/01/metaster).  Frankly, I can't keep up with the friends I have, I don't know why anyone wants more.

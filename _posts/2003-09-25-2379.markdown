@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-09-25 18:56:37+00:00
+layout: post
+slug: '2379'
+title: No Content Found
+wordpress_id: 2379
+---
+
+I just ordered some coffee from [RJ Tarpley's](http://www.rjtarpleys.com/mozillacoffee.html) to support the [Mozilla Foundation](http://mozilla.org), one of my favorite open-source projects.

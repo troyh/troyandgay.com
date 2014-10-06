@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2004-02-02 00:33:44+00:00
+layout: post
+slug: '2559'
+title: No Content Found
+wordpress_id: 2559
+---
+
+Two Linux "inevitability" stories today. [BBC](http://news.bbc.co.uk/2/hi/technology/3436289.stm) reports on its growing success and [Willamette Week](http://www.willametteweek.com/story.php?story=4764) talks about the real value of Linux: _"It's a question of ethical choices," says Riverdale's Nelson. "In a school, it's public money. How should it be spent? Is it ethical to buy software instead of hiring an art teacher? Me, I want an art teacher--not the Microsoft help assistant dancing on every student's desktop._

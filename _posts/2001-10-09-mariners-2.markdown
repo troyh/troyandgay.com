@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: false
+date: 2001-10-09 12:10:00+00:00
+layout: post
+slug: mariners-2
+title: Mariners
+wordpress_id: 1410
+---
+
+Mariners lose 1st game of playoffs, 5-0, to the Cleveland Indians.

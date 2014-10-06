@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2004-09-12 18:17:55+00:00
+layout: post
+slug: '2785'
+title: No Content Found
+wordpress_id: 2785
+---
+
+"The Guardian":http://www.guardian.co.uk/usa/story/0,12271,1302834,00.html: _US Secretary of State Colin Powell described neo-conservatives in the Bush administration as 'fucking crazies' during the build-up to war in Iraq. ... The 'crazies' are said to be Vice-President Dick Cheney, Defence Secretary Donald Rumsfeld and his deputy, Paul Wolfowitz._

@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-03-04 15:29:47+00:00
+layout: post
+slug: irip
+title: iRip?
+wordpress_id: 1930
+---
+
+The LA Times has a [story](http://www.latimes.com/business/la-fi-music4mar04,1,7646945.story?coll=la%2Dhome%2Dtodays%2Dtimes) about Apple's upcoming Mac-only music download service. I'm sure it'll be easy to use, AAC is better than MP3 and it sounds like Apple's smart enough to allow burning to CDs. But 99&#162 for a song is outrageous, especially if I can't listen to the song several times first. And we'll see how big the content library is... if it's just the big artists, forget it; we know what their music sounds like. And without the tiny labels, it's not worthwhile to me. But again, I just don't see how this will stop Kazaa, Gnutella et al.

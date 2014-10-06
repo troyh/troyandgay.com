@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-08-24 18:45:59+00:00
+layout: post
+slug: rivo
+title: RiVo?
+wordpress_id: 2315
+---
+
+[Someone else sees the parallel between the TiVo and TV and RSS Newsreaders and News](http://myst-technology.com/mysmartchannels/public/item/11706?model=user/mtp/web): _A number of parallels have been drawn between RSS newsreaders and TiVo, but they all seem to take a narrow viewpoint of this very powerful model._  The problem is today's RSS Newsreaders recreate the complexity of programming your VCR, instead of the ease of use of TiVo.

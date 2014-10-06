@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2002-08-15 02:02:19+00:00
+layout: post
+slug: new-cds
+title: New CDs
+wordpress_id: 1539
+---
+
+Reindeer Section's _Son of Evil Reindeer_, Beth Orton's _Daybreaker_, Looper's _Snare_ and The Flaming Lips' _Yoshimi Battles the Pink Robots_.

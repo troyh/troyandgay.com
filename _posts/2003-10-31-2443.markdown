@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-10-31 04:22:34+00:00
+layout: post
+slug: '2443'
+title: No Content Found
+wordpress_id: 2443
+---
+
+They've [caught the perpetrator](http://www.news.com.au/common/story_page/0,4057,7721909%255E421,00.html) of that annoying Nigerian email scam. That's great. But what's worse is that now we discover that they made $1.5 million from people who fell for it! There are some really really really gullible people in the world.

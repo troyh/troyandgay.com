@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2002-11-04 03:58:10+00:00
+layout: post
+slug: optimism
+title: Optimism
+wordpress_id: 1751
+---
+
+I sure hope this is true. [Microsoft's New Set of Hurdles](http://www.nytimes.com/2002/11/04/technology/04SOFT.html): _The rise of the Microsoft has affected the technology industry in three main ways, each of which tends to discourage monopoly power._

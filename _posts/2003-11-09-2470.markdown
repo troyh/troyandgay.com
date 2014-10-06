@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-11-09 20:27:21+00:00
+layout: post
+slug: '2470'
+title: No Content Found
+wordpress_id: 2470
+---
+
+The [Steelers](http://steelers.com) actually won a game! They beat the Cardinals, 28-15, for the first win in 5 games.

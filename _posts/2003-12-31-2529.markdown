@@ -1,0 +1,21 @@
+---
+author: troyh
+comments: true
+date: 2003-12-31 18:09:18+00:00
+layout: post
+slug: '2529'
+title: No Content Found
+wordpress_id: 2529
+---
+
+Last post of 2003, so I should quickly summarize the last couple weeks.
+
+For Christmas, I got lots of goodies. The biggies are homebrewing equipment and an electronic weather station. I brewed beer years ago but no longer have all the equipment, so Gay got all the stuff and in 2-3 more weeks, I'll have my first batch. Plus, Gay got me the kegging equipment and a tower so we are going to install a kegerator in our wet bar so I can have fresh homebrew straight from the tap. (New Year's Resolution: exercise more to burn off all the beer calories!).
+
+The weather station hooks up to the computer so I can monitor and record all the critical weather info: wind direction & speed, rainfall, barometric pressure, dew point and even the temperature. I'll have that info up on this site for all to see. Geeky? Yes. I'm a dork, dorks can't just stop being dorks.
+
+Christmas Eve & Christmas were both fun, although too much drinking! Fortunately, I've since decided to concentrate on beer-drinking -- wine and bourbon just don't do me any good.
+
+The day after Christmas I got sick. Not sure if it's the flu or just a bad cold, but it knocked me out. I'm still getting over it today. So I've been spending my time on low-brain-power stuff like recording more and more stats for [the site](http://recipezaar.com) and graphing the historical data with (the great) [RRD Tool](http://people.ee.ethz.ch/~oetiker/webtools/rrdtool/).
+
+Last night it snowed! Snow on Vashon. I think this our first.

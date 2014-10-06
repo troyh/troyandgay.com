@@ -1,0 +1,15 @@
+---
+author: troyh
+comments: true
+date: 2002-11-02 02:12:04+00:00
+layout: post
+slug: holy-shit
+title: Holy Shit!
+wordpress_id: 1749
+---
+
+Judge Colleen Kollar-Kotelly rubber-stamped the weak settlement between MS and the DoJ.
+
+[Dan Gillmor](http://www.siliconvalley.com/mld/siliconvalley/business/columnists/dan_gillmor/ejournal/4423774.htm): _So it was a bad day for competitive markets. And it's a depressing day for anyone who had the slightest belief that our system doesn't side with the rich and powerful. ... The one chance is for people to realize what's at stake and do something difficult: Make choices that mean less convenience today in order to have liberty tomorrow. Americans are lousy at this, but a lot is now at stake. You may not care. You should._
+
+[John Robb](http://jrobb.userland.com/2002/11/01.html#a2786): _This proves one thing.  As a society, we are still in denial about corporate abuses of power.  Law, like any other system is prone to distortion by the views of the people that apply it._

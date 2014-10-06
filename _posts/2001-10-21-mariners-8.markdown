@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: false
+date: 2001-10-21 15:50:00+00:00
+layout: post
+slug: mariners-8
+title: Mariners
+wordpress_id: 1418
+---
+
+Mariners lose again, 2-1.

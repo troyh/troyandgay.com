@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: false
+date: 2001-04-16 07:00:00+00:00
+layout: post
+slug: uncached
+title: Uncached
+wordpress_id: 1379
+---
+
+Server was done for a few hours this morning. Change to caching created a problem when updating the 10,000+ browse cache pages from internal to the external server. That's why our numbers are so low so far today.

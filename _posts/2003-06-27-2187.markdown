@@ -1,0 +1,13 @@
+---
+author: troyh
+comments: true
+date: 2003-06-27 15:46:20+00:00
+layout: post
+slug: '2187'
+title: No Content Found
+wordpress_id: 2187
+---
+
+I could say the govt took _way_ too long to do this, but I won't. I'm happy that the [National Do Not Call Registry](http://donotcall.gov) is up. Now we need a National Do Not Mail Registry.
+
+I'll also note that this would not have been feasible before the internet -- it would have taken an incredible amount of money and marketing to get people to send in paper forms and an incredible amount of money and humans to process the forms. And the telemarketers would have to have published copies of the list, which would take an incredible amount of money to publish and it would  have been constantly out-of-date if it were only published once a year. But thanks to the internet, the cost is very close to $0.

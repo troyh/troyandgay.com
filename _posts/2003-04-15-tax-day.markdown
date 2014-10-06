@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-04-15 23:25:30+00:00
+layout: post
+slug: tax-day
+title: Tax Day!
+wordpress_id: 1997
+---
+
+I haven't paid taxes since the 1999 tax year since my income has always been negative, but this year, with a slightly positive income, I am getting $231 back because of the [Earned Income Credit](http://www.irs.gov/individuals/article/0,,id=96456,00.html). And it's going to be donated to [my favorite charity](http://recipezaar.com).

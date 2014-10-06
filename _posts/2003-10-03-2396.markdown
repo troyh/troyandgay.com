@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-10-03 07:12:15+00:00
+layout: post
+slug: '2396'
+title: No Content Found
+wordpress_id: 2396
+---
+
+Just to remind myself that some things can go smoothly... I upgraded [the site](http://recipezaar.com) to [PHP](http://php.net) 4.3.3 and [Apache](http://httpd.apache.org) 1.3.28 this evening in minutes without any interruption to the site at all.

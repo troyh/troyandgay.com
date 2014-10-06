@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: false
+date: 2002-02-04 20:32:00+00:00
+layout: post
+slug: 16000-recipes
+title: 16,000 recipes
+wordpress_id: 1444
+---
+
+**16,000** recipes! That's 77 recipes/day on average.

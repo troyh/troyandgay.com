@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2004-07-13 17:41:48+00:00
+layout: post
+slug: '2689'
+title: No Content Found
+wordpress_id: 2689
+---
+
+Japan [determines that Microsoft breaks antitrust laws](http://www.infoworld.com/article/04/07/13/HNjapanftc_1.html?source=rss&url=http://www.infoworld.com/article/04/07/13/HNjapanftc_1.html) in their country too. In other news, it was learned that dogs bark, pigs do not fly and the sky is blue. Microsoft has no respect for laws in the US, Europe and now Japan. I think I see a pattern here.

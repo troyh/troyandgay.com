@@ -1,0 +1,15 @@
+---
+author: troyh
+comments: true
+date: 2003-11-07 16:23:55+00:00
+layout: post
+slug: '2465'
+title: No Content Found
+wordpress_id: 2465
+---
+
+[Barnes & Noble](http://www.internetnews.com/ec-news/article.php/3105761) wants to take over barnesandnoble.com. Why they weren't the same company in the first place was a stupid mistake, but B&N management got caught up in the internet craze and thought that the brick & mortar chain would hurt their dot-com-ness. If anything, it would help. Now they have to pay $200 million to get back the company they funded in the first place. Oh well. Maybe now I can order a book from bn.com and return it at the local store.
+
+[What do the presidential candidates run for their web sites?](http://www.linuxjournal.com/article.php?sid=7239) I'm sure you could guess just based on political leanings of each party. But even more interesting, the Republican National Committee web site runs Microsoft software and the Democratic National Committee web site runs Apache on Linux and the difference in reliability (measured in how often the site needs to be rebooted) is striking: 4.26 days for the RNC and 445 days for the DNC. What I'd really like to know is how much money each spent on their sites so we can have a price/performance ratio of Republicans versus Democrats. And if you are a rich Republican, good news... the IRS has a [new form](http://www.irs.gov/pub/irs-pdf/f8302.pdf) that you can use to get your million-dollar tax refund more quickly.
+
+[iTunes outselling Napster](http://www.apple.com/pr/library/2003/nov/06itunes.html) 5-to-1 in the first week. This goes against all the "analysts" who said Napster would be the winner. As usual, analysts go by hype instead of facts. Napster's users are kids and kids don't purchase music online or offline. iTunes' users are adults with more disposable income, who do purchase music. iTunes now has 80% marketshare (up from 70%). [Even Steve Ballmer did an iPod commercial](http://www.macboy.com/cartoons/ballmer/).

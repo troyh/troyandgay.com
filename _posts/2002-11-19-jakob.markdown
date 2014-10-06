@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2002-11-19 03:39:30+00:00
+layout: post
+slug: jakob
+title: Jakob
+wordpress_id: 1784
+---
+
+THe 'make fun of Jakob Nielsen' site: [{ use.it.or.lose.it }](http://useitorloseit.cjb.net/).

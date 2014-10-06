@@ -1,0 +1,21 @@
+---
+author: troyh
+comments: true
+date: 2003-09-28 16:58:46+00:00
+layout: post
+slug: '2385'
+title: No Content Found
+wordpress_id: 2385
+---
+
+I got my new cell phone, a Nokia 3650, on Friday. My initial reaction was "Wow, this thing is huge". It's just a little bigger than the Nokia that I was using temporarily but it looks a lot bigger in your hand. Aside from that, it's a really nice phone. The screen is easily readable outside which is rare for a color screen. And the quality of the screen is great, although I don't  like the typeface that they chose (reminds me of the [GEM](http://www.geocities.com/SiliconValley/Vista/6148/gem.html) GUIs from the late 1980s).
+
+The best two things about the phone are the reception and the battery life. With my Motorola phone, I could scarcely get a signal anywhere at home and I couldn't move my head much while on the phone or I'd lose the signal and certainly couldn't walk around. I always thought that was because we live in a rural area, but  now I see that it was just the phone. With the Nokia, I can walk anywhere around the house (except near the front door for some reason) and the signal is strong and the quality of the call is as good as our 2.4GHz cordless phones.
+
+The battery life is much longer than I'm used to too. With the Motorola, I could almost go 2 full days on standby if I didn't use the phone much. But if I made just 1 call longer than 20 or 30 minutes, the phone would need a charge that night. With this phone, I talked to  my parents for an hour, many other (shorter) calls to test it and I used the internet heavily and didn't charge the phone until last night. It supposedly can go 7 days or  more in standby mode, which should be handy for a short trip when I forget the charger (like I did last weekend going to Spokane).
+
+The battery life and the better reception are enough for me to be happy. But the internet access makes it even better. It's much faster (40kbps) than my Motorola (9.6kbps) and the color screen is wider and easier to read than the Motorola. So I can monitor [the site](http://recipezaar.com) more effectively now and can now even view graphs like I can on our intranet site.
+
+The phone is loaded with features that I doubt I'll use. For example, I can take pictures of people and set the photo to display when they call me. But do plan to use the Calendar and ToDo lists when I get it syncing with my desktop. The bluetooth adapter for the computer should be here Wednesday and that should be fun to play with.
+
+One downside is that the software that it comes with is Windows-only. Why it needs software in the first place points to poor design (you need software to control your software?), but when you use a Mac, you live in the (lucky) 4% of the world, so you learn to accept these inequalities.

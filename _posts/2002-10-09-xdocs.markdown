@@ -1,0 +1,13 @@
+---
+author: troyh
+comments: true
+date: 2002-10-09 02:08:53+00:00
+layout: post
+slug: xdocs
+title: XDocs
+wordpress_id: 1681
+---
+
+More dumbass analyst-speak after Ballmer [announces XDocs](http://rss.com.com/2100-1001-961313.html?type=pt&part=rss&tag=feed&subj=news): _Meta Group analyst David Yockelson said XDocs is "powerful because it lets me collect up a lot of related information into a tabular format," Yockelson said. "It removes the demarcation between what a spreadsheet is, what a document is, what a form is, and how I can look at and retrieve information that would be in those things."_
+
+Gee, collecting related info in a tabular format? Never been possible before fat-ass Ballmer touts XML. I wonder if David Yockelson said that the Xbox is "powerful because it lets me play video games on my television".

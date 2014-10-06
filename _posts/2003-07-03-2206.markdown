@@ -1,0 +1,15 @@
+---
+author: troyh
+comments: true
+date: 2003-07-03 21:54:18+00:00
+layout: post
+slug: '2206'
+title: No Content Found
+wordpress_id: 2206
+---
+
+Gee, the DoJ now thinks that [Microsoft is not complying with the settlement](http://www.nytimes.com/reuters/business/business-microsoft-settlement.html?ex=1372651200&en=ed5323401b6ba604&ei=5007&partner=USERLAND). I suspect the next we hear from [Colleen Kollar-Kotelly](http://www.dcd.uscourts.gov/kotelly-bio.html) will be something like "Ok, Microsoft, I said I might slap you on the wrist for the grievous crimes you committed. Now I just might threaten to make that threat again."
+
+Kollar-Kotelly is a moron. In the settlement, she actually used the word "reasonable" in describing the fees Microsoft can charge competitors to see the source code. That's lawyer-ese for "absolutely anything you want". So Microsoft charged outrageous fees.
+
+Just to give a quick history... Microsoft settled the original case against them in 1995. They broke that settlement and ended up in this new antitrust case. They lost the case but the DoJ decided to have another settlement. And they're now surprised that they're breaking this one? I think I see a pattern here.

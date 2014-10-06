@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-05-12 16:58:34+00:00
+layout: post
+slug: google
+title: Google
+wordpress_id: 2066
+---
+
+Maybe [this](http://www.theregister.co.uk/content/6/30621.html) is the reason Google bought Blogger. Separating weblog content from their main index is good, I think, but how will Google know which sites are weblogs and which aren't?

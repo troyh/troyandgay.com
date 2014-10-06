@@ -1,0 +1,32 @@
+---
+author: troyh
+comments: true
+date: 2004-01-19 17:19:53+00:00
+layout: post
+slug: evil-spam
+title: Evil Spam
+wordpress_id: 2546
+---
+
+Look this is just plain fraud, and it is evil.  Luckily I know not to trust Paulinus_Pradip@bellsouth.net to be sending me mail on behalf of US Bank (or whomever sent me the one from Citibank last week complete with their logos), but other might not be as discerning:
+
+_Dear U.S. Bank account holder,
+
+We regret to inform you, that we had to block your U.S. Bank account because we have been notified that your account may have been compromised by outside parties.
+
+Our terms and conditions you agreed to state that your account must always be under your control or those you designate at all times.
+
+We have noticed some activity related to your account that indicates that other parties may have access and or control of your information in your account. These parties have in the past been involved with money laundering, illegal drugs, terrorism and various Federal Title 18 violations.
+
+In order that you may access your account we must verify your identity by clicking on the link below. Please be aware that until we can verify your identity no further access to your account will be allowed and we will have no other liability for your account or any transactions that may have occurred as a result of your failure to reactivate your account as instructed below.
+
+Thank you for your time and consideration in this matter.
+https://www.usbank.com/account_verify/cgi/index.htm
+
+Before you reactivate your account, all payments have been frozen, and you will not be able to use your account in any way until we have verified your
+identity._
+
+link above displays as above, but the HTML really goes to:
+http://www.usbank.com=01@bos.es.kr/index.htm]
+
+Bastards.  Spam is one of our biggest problems.  I wish my email client had a way for me to push a button to sue these jerks.

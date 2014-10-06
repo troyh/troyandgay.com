@@ -1,0 +1,26 @@
+---
+author: troyh
+comments: true
+date: 2003-11-12 03:07:50+00:00
+layout: post
+slug: '2483'
+title: No Content Found
+wordpress_id: 2483
+---
+
+I just upgraded to a new version of a great little app that sits in my menu bar and tells me the current weather and the forecast called [Meteorologist](http://sourceforge.net/projects/heat-meteo). While checking out the new features, I find this in the About screen:
+
+
+
+This is the final release of Meteorologist from Humongous Elephants and Tigers.  I worked on Meteo for quite some time while I attending the University of Illinois, but I am sad to announce that no future development will be done on my part (although many could have guessed that this was coming).
+
+To those who hate my guts - you probably have good reason, and I hope your hatred is doused a little with pity.  I have been woefully behind on emails and updates.  I have plenty of excuses, but that doesn't really matter.
+
+Meteorologist is now officially out of my hands.  I will be hunting around to find someone to take up the torch, and to try to take up the good fight.
+
+Best of luck to everyone,
+Matthew Fahrenbacher
+
+
+
+The author gets hate e-mail from people about it so he's quitting development of it. It's completely free software! The author does nothing but a positive thing and he gets hate mail about it! Never underestimate how mean people can be to other people.

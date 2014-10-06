@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-06-26 04:37:55+00:00
+layout: post
+slug: '2178'
+title: No Content Found
+wordpress_id: 2178
+---
+
+[NY Times](http://www.nytimes.com/2003/06/26/business/26ENRO.html?ex=1371960000&en=0f198695db991329&ei=5007&partner=USERLAND): _The Labor Department is expected to sue about 20 officials of the  Enron Corporation and its retirement plans today, arguing that they breached their fiduciary duty to protect Enron employees from the huge losses they incurred when the company's stock price collapsed._

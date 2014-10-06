@@ -1,0 +1,13 @@
+---
+author: troyh
+comments: true
+date: 2006-06-09 18:43:55+00:00
+excerpt: <img alt="IMG_0908.JPG" src="http://troyandgay.com/wp-content/uploads/2006/06/IMG_0908-thumbnail.jpg"
+  width="239" height="180" />
+layout: post
+slug: 2006-06-03-200613
+title: Megan and Jon
+wordpress_id: 3184
+---
+
+![IMG_0908.JPG](http://troyandgay.com/wp-content/uploads/2006/06/IMG_0908.JPG)

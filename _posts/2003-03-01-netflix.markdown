@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-03-01 07:59:45+00:00
+layout: post
+slug: netflix
+title: Netflix
+wordpress_id: 1919
+---
+
+Netflix [signed up their millionth customer](http://www.sanmateocountytimes.com/Stories/0,1413,87~11271~1208373,00.html). They lost us as customers, though... the onslaught of 5 DVDs that we couldn't watch and sat on because we couldn't bring ourselves to sending them back forced us to cancel the service. Plus, they were very slow at delivering the movies we wanted because they never could meet the demand for the big movies. Plus, their web site makes it painful to find new movies since they "hide" the new releases.

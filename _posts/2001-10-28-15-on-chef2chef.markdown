@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: false
+date: 2001-10-28 17:56:00+00:00
+layout: post
+slug: 15-on-chef2chef
+title: '#15 on Chef2Chef'
+wordpress_id: 1421
+---
+
+Back to #15 on [Chef2Chef](http://www.chef2chef.net/rank/inter.shtml). We bounce around between 14 & 16. Let's hope we get a more solid Top 15 ranking soon, preferably closer to Top 10.

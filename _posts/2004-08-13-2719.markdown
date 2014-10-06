@@ -1,0 +1,13 @@
+---
+author: troyh
+comments: true
+date: 2004-08-13 17:02:07+00:00
+layout: post
+slug: '2719'
+title: No Content Found
+wordpress_id: 2719
+---
+
+"Switching away from IE":http://www.nytimes.com/2004/08/12/technology/circuits/12brow.html?ei=5090&en=2e6b25eafd7f2db7&ex=1250049600&partner=rssuserland&pagewanted=all: _Ms. Sandlin is so devoted to her browser that she has taped a note to her monitor warning guests not to click on the desktop shortcut to Internet Explorer. "Do not touch the blue 'E!' " the note says._
+
+IE has 94% marketshare still according to WebSideStory, but on Recipezaar, it's already down to 80% and seems to be steadily dropping. From what we can tell, the #1 reason people stick with IE is because "it's what I know". Other reasons are to keep the Google toolbar because of its popup-blocking feature and the resistance to downloading another browser. But those that switched sure seem to love their new browser (Firefox mostly it seems).

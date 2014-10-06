@@ -1,0 +1,13 @@
+---
+author: troyh
+comments: true
+date: 2003-09-16 21:29:47+00:00
+layout: post
+slug: '2364'
+title: No Content Found
+wordpress_id: 2364
+---
+
+[Recipezaar](http://recipezaar.com) is up to [8,800](http://www.alexa.com/data/details/?url=recipezaar.com) on [Alexa](http://www.alexa.com)'s ranking system. That means there are only 8,799 sites that are bigger in traffic.
+
+It's only one system for ranking sites and isn't always the same as what we see internally, but it's as good a barometer as any. But the most interesting thing is that our biggest competitors ([AllRecipes](http://www.alexa.com/data/details/traffic_details?q=&url=allrecipes.com), [Epicurious](http://www.alexa.com/data/details/?url=epicurious.com), [FoodTV](http://www.alexa.com/data/details/?url=foodtv.com)), with millions of dollars in funding and marketing, are continuing to fall while Recipezaar continues to rise. I remember when they were hundreds of times bigger than us, now they're just 3-4 times bigger. I like the trend.

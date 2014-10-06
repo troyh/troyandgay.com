@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2002-09-26 08:56:09+00:00
+layout: post
+slug: new-httpd
+title: New HTTPD!
+wordpress_id: 1644
+---
+
+I just checked in a new httpd that speeds up browsing. It does this simply by not doing 2 joins that are unnecessary when just getting the list of categories and their counts for the browse hierarchy. In tests on dublin, the query went from 1.12 seconds to 0.21 seconds (81% faster). Note that this only affects the "simple" browsing case; not when browsing My Cookbook, another user's recipes, search results, etc. **Test it today** so I can push it to the live site.

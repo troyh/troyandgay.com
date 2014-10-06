@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2004-09-19 18:33:41+00:00
+layout: post
+slug: '2796'
+title: No Content Found
+wordpress_id: 2796
+---
+
+In 1954, the "RAND Corporation":http://www.rand.org/ made a "model":http://users.net1plus.com/scottm/HomeComputer.jpg of what the home computer would look like in 2004. And check out the caption: "With the teletype interface and the Fortran language, the computer will be easy to use..."

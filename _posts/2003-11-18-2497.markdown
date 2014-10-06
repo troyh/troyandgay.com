@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-11-18 16:36:38+00:00
+layout: post
+slug: '2497'
+title: No Content Found
+wordpress_id: 2497
+---
+
+Apple announced a [20" iMac]() and a [faster G5 PowerMac](http://www.apple.com/powermac/). I didn't see a single rumor about the 20" iMac, which is rare. In other Apple news, [apparently](http://slashdot.org/article.pl?sid=03/11/18/1422255) Apple is the one who forced their employee to stop distributing [Netflix Fanatic](http://www.cricketmedia.com/software/netflix/) and is rumored to be integrating it into [Sherlock](http://www.apple.com/macosx/features/sherlock/).

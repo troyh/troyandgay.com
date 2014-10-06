@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2004-01-20 07:06:19+00:00
+layout: post
+slug: '2547'
+title: No Content Found
+wordpress_id: 2547
+---
+
+Some good internet news... [pop-ups may soon disappear](http://www.nytimes.com/2004/01/19/technology/19popup.html); [we](http://recipezaar.com)'ve given up lots of revenue by refusing pop-ups because we hate them so much, so I'm hopeful that we may be able to stop feeling like suckers (pop-up ads pay 10 to 35 times more than regular ads). And better still, [Yahoo has confirmed it will replace Google with its own search engine. Google's good, but it's got _way_ too much power -- it'll be nice to have competition again.

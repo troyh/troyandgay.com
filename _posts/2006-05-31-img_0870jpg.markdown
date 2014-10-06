@@ -1,0 +1,14 @@
+---
+author: troyh
+comments: true
+date: 2006-05-31 19:56:01+00:00
+excerpt: <img alt="IMG_0870.JPG" src="http://troyandgay.com/wp-content/uploads/2006/05/IMG_0870-thumbnail.jpg"
+  width="239" height="180" />
+layout: post
+slug: img_0870jpg
+title: Gay's MacBook Pro
+wordpress_id: 3174
+---
+
+Gay got a new laptop today, her first one that isn't a hand-me-down from me, to replace her 4 year-old iBook. A 2.16GHz 15" MacBook Pro with 1GB RAM.
+![IMG_0870.JPG](http://troyandgay.com/wp-content/uploads/2006/05/IMG_0870.JPG)

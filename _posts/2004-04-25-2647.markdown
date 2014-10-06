@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2004-04-25 17:15:08+00:00
+layout: post
+slug: '2647'
+title: No Content Found
+wordpress_id: 2647
+---
+
+[NYT article](http://www.nytimes.com/2004/04/25/business/yourmoney/25jobs.html?ei=5062&en=142960964a42f2ef&ex=1083470400&adxnnl=1&partner=GOOGLE&adxnnlx=1082912547-2gZKrd9XqOvCXeirHLumVg) on Steve Jobs and the iPod.

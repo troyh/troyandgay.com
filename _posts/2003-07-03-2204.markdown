@@ -1,0 +1,13 @@
+---
+author: troyh
+comments: true
+date: 2003-07-03 17:11:28+00:00
+layout: post
+slug: '2204'
+title: No Content Found
+wordpress_id: 2204
+---
+
+Call me dumb, but I just came to a realization as to why the Mac is so much easier to use than Windows. It's simply business. Any businessperson can tell you that you build your product to meet your customers' needs. The customer for Windows is not the consumer, it's [OEM](http://www.wikipedia.org/w/wiki.phtml?search=OEM&go=Go)s. Microsoft sells very few copies of Windows on store shelves, the overwhelming majority of revenue comes from those who ship Windows on their computers -- OEMs like Dell, Compaq, Gateway, etc. However, the customer for the Mac **is** the consumer because Apple doesn't have OEMs, they have to build their product to appeal to the consumer. So that's why you see an incredible number of features and customization in Windows that OEMs want/need (but that consumers don't need or want) that get in the way, but the Mac is designed so suit the consumer.
+
+It seems so obvious, but in all my years in the industry, I've never seen anyone put it this way. As a former Microsoft employee, I don't even think that the employees realize this. The natural assumption is that Microsoft is just very bad at design and Apple is very good at it. I still think that's true, but it's true because Microsoft has no need to be good at design -- the OEMs aren't complaining about poor design.

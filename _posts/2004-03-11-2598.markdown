@@ -1,0 +1,15 @@
+---
+author: troyh
+comments: true
+date: 2004-03-11 14:55:00+00:00
+layout: post
+slug: '2598'
+title: No Content Found
+wordpress_id: 2598
+---
+
+[BusinessWeek will be running a story](http://www.newsforge.com/trends/04/03/11/0819219.shtml) that refutes Microsoft's claims that it had "no direct or indirect" dealings with SCO. SCO and Microsoft have both denied it. But Baystar, the middle-man venture firm who gave SCO $50 million, says that Microsoft executives did approach Baystar asking them to give SCO the money.
+
+**Update:** BusinessWeek posted their [article](http://www.businessweek.com/technology/content/mar2004/tc20040311_8915_tc119.htm): _Lawrence Goldfarb, managing partner of BayStar, says that senior executives at the software giant had telephoned him about two months before the investment. Would he be interested in investing in SCO, they asked?_
+
+Why would Microsoft, a competitor to SCO, encourage an investment in a company with $20,000 in revenue last year and one clearly headed towards bankruptcy? Wouldn't Microsoft prefer SCO go out of business? Or are they trying to keep the ridiculous anti-Linux lawsuits SCO has brought alive? I think the answer is obvious.

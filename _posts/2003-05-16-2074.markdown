@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-05-16 05:50:03+00:00
+layout: post
+slug: '2074'
+title: No Content Found
+wordpress_id: 2074
+---
+
+And I missed the [total lunar eclipse](http://sunearth.gsfc.nasa.gov/eclipse/extra/TLE2003May15.html) tonight. We caught the last few minutes of it, but we had a very clear view of the moon and still missed it.

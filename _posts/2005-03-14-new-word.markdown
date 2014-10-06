@@ -1,0 +1,12 @@
+---
+author: troyh
+comments: true
+date: 2005-03-14 17:35:52+00:00
+layout: post
+slug: new-word
+title: New Word
+wordpress_id: 3038
+---
+
+[From Jakob Nielsen's Alertbox](http://www.useit.com/alertbox/20050314.html):
+`**satisfice** -- accept something as "good enough"`

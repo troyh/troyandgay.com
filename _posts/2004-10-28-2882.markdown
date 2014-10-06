@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2004-10-28 18:19:14+00:00
+layout: post
+slug: '2882'
+title: No Content Found
+wordpress_id: 2882
+---
+
+"Pew":http://www.pewinternet.org/PPF/r/141/report_display.asp: People on the internet are more open-minded than people off the internet. Yet another reason why the internet is changing the world for the better.

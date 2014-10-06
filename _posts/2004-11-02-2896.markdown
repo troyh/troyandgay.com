@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2004-11-02 00:57:25+00:00
+layout: post
+slug: '2896'
+title: No Content Found
+wordpress_id: 2896
+---
+
+"If Microsoft made the iPod":http://forums.macrumors.com/attachment.php?attachmentid=18429. And it wouldn't play MP3s, only WMAs. :)

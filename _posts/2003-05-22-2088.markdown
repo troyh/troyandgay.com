@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-05-22 21:59:34+00:00
+layout: post
+slug: '2088'
+title: No Content Found
+wordpress_id: 2088
+---
+
+Just upgraded our internet connection to [Comcast Pro](http://www.comcastonline.com/pro.htm), 3.5Mbps download speeds and 5 static IP addresses. Speedy!

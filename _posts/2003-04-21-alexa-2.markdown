@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-04-21 17:17:07+00:00
+layout: post
+slug: alexa-2
+title: Alexa
+wordpress_id: 2011
+---
+
+Up to 9,500 on [Alexa](http://www.alexa.com/data/details?url=recipezaar.com). It's weird how their charts go, though. Traffic steadily increases month to month but looking at their [chart](http://www.alexa.com/data/details/traffic_details?q=&url=recipezaar.com), March was way down and April is only as high as February, which is definitely not true based on our figures.

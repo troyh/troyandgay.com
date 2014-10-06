@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-11-10 17:14:47+00:00
+layout: post
+slug: '2478'
+title: No Content Found
+wordpress_id: 2478
+---
+
+[Spam is annoying](http://www.troyandgay.com/archives/2003/11/001814.php#001814), but the thing I love about it is that instead of getting lawyers involved, technologists are fighting back. It's going to make the internet a less open place, but it's far better than having more laws and bigger government, in my opinion.

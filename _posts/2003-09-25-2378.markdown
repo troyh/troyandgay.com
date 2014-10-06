@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-09-25 18:48:08+00:00
+layout: post
+slug: '2378'
+title: No Content Found
+wordpress_id: 2378
+---
+
+[14,000](http://www.cnn.com/2003/WORLD/europe/09/25/france.heatdeaths.ap/index.html) people dead in France due to the heat wave.

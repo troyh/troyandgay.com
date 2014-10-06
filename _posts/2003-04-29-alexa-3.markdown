@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-04-29 09:30:59+00:00
+layout: post
+slug: alexa-3
+title: Alexa
+wordpress_id: 2038
+---
+
+Another jump in Alexa. Up to [9,150](http://www.alexa.com/data/details?url=recipezaar.com). I hate to say it, but I enjoy that our biggest competitor, AllRecipes, is consistently falling in the same ranking. $20 million in debt and still losing $4 million/yr, AllRecipes should be humbled, but they are less than the nicest people in this biz and they've even tried to flex their muscle against us with copyright violation claims on recipes they stole from other people. I also think it's funny that we've had more than one employee of theirs call us asking for a job. :-)

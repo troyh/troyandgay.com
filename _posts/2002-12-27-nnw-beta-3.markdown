@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2002-12-27 18:39:19+00:00
+layout: post
+slug: nnw-beta-3
+title: NNW Beta 3
+wordpress_id: 1825
+---
+
+NetNewsWire Pro Beta 3 was [released](http://ranchero.com/software/netnewswire/probeta/) this morning. Boy, he's quick.

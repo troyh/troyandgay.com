@@ -1,0 +1,23 @@
+---
+author: troyh
+comments: true
+date: 2003-02-17 01:14:22+00:00
+layout: post
+slug: 4-gs
+title: 4 Gs
+wordpress_id: 1893
+---
+
+Maybe Google just [bought Blogger](http://weblog.siliconvalley.com/column/dangillmor/archives/000802.shtml#000802) because they love the letter 'g', but I think it's mostly to embed it into the [Google Appliance](http://www.google.com/appliance/). Google is smart enough to only spend money on something that will make them money. And they're supposedly having success with this product, selling it to corporations to index their intranet data. But allowing employees to communicate and write about the internal info would be a nice addition to the appliance. I'm sure they could easily sell this to the CEOs as a cheap way to get your employees communicating (read: "working harder").
+
+
+
+
+
+Most people tend to think they're going to use it like they used Deja.com, some even think it's simply  altruism (Google altruistic?!) and others think they're just going to start linking [Google News](http://news.google.com) to weblogs. And [Steven Johnson suggests](http://www.stevenberlinjohnson.com/movabletype/archives/000046.html) that he may have had an influence on Google with [this Salon article](http://www.salon.com/tech/feature/2002/05/10/blogbrain/).
+
+
+
+
+
+Whatever the reason, I'm sure we'll find out soon enough. And I'd like to know how much they paid for Blogger...  I mean, for crying out loud, it's a simple database front-end. It ain't -level of complexity. :)

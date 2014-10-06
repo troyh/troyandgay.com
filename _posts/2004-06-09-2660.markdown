@@ -1,0 +1,15 @@
+---
+author: troyh
+comments: true
+date: 2004-06-09 06:48:36+00:00
+layout: post
+slug: '2660'
+title: No Content Found
+wordpress_id: 2660
+---
+
+Watching [The Office](http://www.bbc.co.uk/comedy/theoffice/), there's a great bit when the IT guy comes to install software on a computer. When he's done, he tells the computer's user:
+
+"I'm now going to restart the computer. When it starts again, it will ask you a question with three options: Yes, No and Cancel. Press Cancel, do not press Yes or No."
+
+Have you ever been asked a question like that? Yes, No, Cancel.

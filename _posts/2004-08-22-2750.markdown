@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2004-08-22 17:58:28+00:00
+layout: post
+slug: '2750'
+title: No Content Found
+wordpress_id: 2750
+---
+
+Check out the "survival time graph":http://isc.sans.org/survivalhistory.php for Windows XP. It's getting shorer. In other words, if you install Windows XP, connect to the internet with its default setup, your computer will be infected in 20 minutes. Don't run Windows with Administrator privileges on your Windows account!

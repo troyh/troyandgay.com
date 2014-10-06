@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2004-08-20 05:48:59+00:00
+layout: post
+slug: '2743'
+title: No Content Found
+wordpress_id: 2743
+---
+
+I like making predictions and then seeing how well I did later, so here's my Google stock prediction: in 6 months, the stock is $50 or less.

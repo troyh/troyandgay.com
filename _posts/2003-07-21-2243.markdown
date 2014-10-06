@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-07-21 17:31:31+00:00
+layout: post
+slug: '2243'
+title: No Content Found
+wordpress_id: 2243
+---
+
+Since the week is filled with work on [Recipezaar](http://recipezaar.com), we spent the entire weekend hammering out lots of code for (yet) another web site. It was hot this weekend too and we sat in the office in front of our computers, which got to be uncomfortable. But we made lots of progress at least. We didn't quite finish it, which was our goal for the weekend, but we're close. And the coolest thing is although the site is very different from [Recipezaar](http://recipezaar.com), a lot of the software can (and will) be used for Recipezaar.

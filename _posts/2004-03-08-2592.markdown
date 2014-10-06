@@ -1,0 +1,13 @@
+---
+author: troyh
+comments: true
+date: 2004-03-08 16:35:21+00:00
+layout: post
+slug: '2592'
+title: No Content Found
+wordpress_id: 2592
+---
+
+[Microsoft denies](http://seattlepi.nwsource.com/business/163536_msftsco07.html) they are funding [SCO's lawsuits against linux](http://www.troyandgay.com/archives/2004/03/001923.php#001923). Good news, but Microsoft has a tendency to lie in their denials, specifically the recent (but considerably less significant) [iLoo](http://www.toiletmuseum.com/iloo.html) and their [faked "Switch story"](http://www.macmerc.com/article.php?sid=374). I'm sure the truth will be revealed eventually.
+
+**Update:** There are now reports that the SEC is investigating Microsoft and SCO for "under-the-table" financial dealings.

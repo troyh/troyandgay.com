@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2002-10-14 15:51:04+00:00
+layout: post
+slug: ms-vs-oss
+title: MS vs OSS
+wordpress_id: 1700
+---
+
+[News: Open source closes in on Microsoft](http://zdnet.com.com/2100-1104-961903.html): _"Now they look at something like Windows XP and say, 'OK, it's more stable, but I have to buy new machines. I don't think Microsoft has ever made a version of its products that used less resources than the previous version.' Or, 'Windows 2000 Server looks really good, but all I need is a Web site, and I can take this old 486 and I can put Red Hat Linux and Apache on it and have a Web server up in no time at all,'" Cherry said._

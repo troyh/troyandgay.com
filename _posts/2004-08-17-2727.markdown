@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2004-08-17 00:51:16+00:00
+layout: post
+slug: '2727'
+title: No Content Found
+wordpress_id: 2727
+---
+
+"Wired will no longer capitalize _internet_, _web_ or _net_":http://www.wired.com/news/culture/0,1284,64596,00.html. Linux shouldn't be capitalized either.

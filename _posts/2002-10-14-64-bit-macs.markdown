@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2002-10-14 00:52:51+00:00
+layout: post
+slug: 64-bit-macs
+title: 64-bit Macs?
+wordpress_id: 1697
+---
+
+This would be very cool and would put Apple way out in front of the Wintel world and Apple is the company that would surprise everyone with a 64-bit CPU before anyone else. [Forbes.com: IBM server chip seen slimmed down for Apple Macs](http://www.forbes.com/technology/newswire/2002/10/13/rtr749520.html).

@@ -1,0 +1,13 @@
+---
+author: troyh
+comments: true
+date: 2003-10-03 23:21:52+00:00
+layout: post
+slug: '2398'
+title: No Content Found
+wordpress_id: 2398
+---
+
+[Eric Raymond](http://www.catb.org/~esr/) has decided that [Sun is done](http://linuxtoday.com/news_story.php3?ltsn=2003-10-02-014-26-OP-BZ-SW), thanks to Linux. I'll always appreciate [Bill Joy](http://www.sun.com/aboutsun/media/ceo/mgt_joy.html) because he gave the world [vi](http://www.vim.org/), the world's greatest text editor, but I disagree that Sun's death is anything to lose sleep over. And while Java is not as dumb as C#, it's still as immature and almost as proprietary (although I was admittedly very hopeful for Java in 1996). I say good riddance to Sun's overpriced hardware and proprietary operating system.
+
+I said in 1999 that Sun would be Linux's first casualty but it happened even faster than I thought it would. Let the bloody Windows versus Linux war begin. And this will be more fun to watch than the RIAA fight progress; there will be fewer lawsuits, at least.

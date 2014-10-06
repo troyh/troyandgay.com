@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2004-04-14 16:59:49+00:00
+layout: post
+slug: '2633'
+title: No Content Found
+wordpress_id: 2633
+---
+
+More [stories](http://www.wired.com/news/print/0,1294,63048,00.html) about [The Onion](http://theonion.com)'s stories being taken as fact and used as sources in real newspapers. People are amazingly gullible.

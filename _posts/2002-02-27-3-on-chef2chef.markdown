@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: false
+date: 2002-02-27 22:44:00+00:00
+layout: post
+slug: 3-on-chef2chef
+title: '#3 on Chef2Chef'
+wordpress_id: 1456
+---
+
+#3 on [Chef2Chef](http://chef2chef.net/rank/inter.shtml)

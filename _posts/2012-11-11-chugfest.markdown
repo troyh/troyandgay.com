@@ -1,0 +1,18 @@
+---
+author: troyh
+comments: true
+date: 2012-11-11 07:25:04+00:00
+layout: post
+slug: chugfest
+title: CHUGfest
+wordpress_id: 6297
+categories:
+- Our Life
+tags:
+- Homebrew
+---
+
+CHUGfest: Capitol Hill Urban-brewer's Guild beer festival. I never thought I'd be in a guild. 
+
+[![Untitled](http://farm9.staticflickr.com/8487/8188969551_0a4184c05b.jpg)](http://www.flickr.com/photos/troyh/8188969551/)
+[![Untitled](http://farm9.staticflickr.com/8066/8188969965_1c297a245d.jpg)](http://www.flickr.com/photos/troyh/8188969965/)

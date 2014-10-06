@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2004-08-17 16:50:01+00:00
+layout: post
+slug: '2729'
+title: No Content Found
+wordpress_id: 2729
+---
+
+Internet Explorer *finally* "blocks pop-ups":http://www.microsoft.com/technet/prodtechnol/winxppro/maintain/sp2top.mspx#XSLTsection126121120120. But they turn it off by default, unfortunately.

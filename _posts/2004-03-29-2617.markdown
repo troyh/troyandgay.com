@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2004-03-29 15:57:14+00:00
+layout: post
+slug: '2617'
+title: No Content Found
+wordpress_id: 2617
+---
+
+[Bush calls for high-speed internet for all Americans](http://www.pcworld.com/news/article/0,aid,115424,pg,1,RSS,RSS,00.asp) by 2007. He doesn't say what he is going to do and I don't know what the government can or should do about this, but I'm glad to see that he finally showed an interest in the internet. Apparently, Kerry is going to announce his broadband internet plans soon. Why is this a campaign issue?

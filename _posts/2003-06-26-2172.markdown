@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-06-26 00:05:22+00:00
+layout: post
+slug: '2172'
+title: No Content Found
+wordpress_id: 2172
+---
+
+What I learned today: Unix admins are _still_ [arrogant jerks](http://www.livejournal.com/users/russkiypenguin/52206.html).

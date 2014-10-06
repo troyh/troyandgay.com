@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-04-30 18:15:20+00:00
+layout: post
+slug: itunes
+title: iTunes
+wordpress_id: 2041
+---
+
+One day after Apple introduced their [music service](http://applemusic.com) and [iTunes 4](http://apple.com/itunes/), Monster.com posts a [job](http://jobsearch.monster.com/getjob.asp?JobID=17792667&AVSDM=2003%2D04%2D29+11%3A47%3A00%2E000&CCD=my%2Emonster%2Ecom&JSD=jobsearch%2Emonster%2Ecom&HD=company%2Emonster%2Ecom&AD=http%3A%2F%2Fjobsearch%2Emonster%2Ecom%2Fjobsearch%2Easp%3Fco%3Dxacompx&Logo=1&col=dltci&cy=&brd=1%2C1862%2C1863&lid=&fn=&q=) at Apple for a software developer to work on iTunes for Windows. Apple is going to do for music what they did for WiFi, GUIs, ease-of-use, etc.

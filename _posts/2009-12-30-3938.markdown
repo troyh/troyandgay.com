@@ -1,0 +1,19 @@
+---
+author: troyh
+comments: true
+date: 2009-12-30 18:25:23+00:00
+layout: post
+slug: '3938'
+title: Security Theater
+wordpress_id: 3938
+---
+
+Bruce Schneier on [terrorism security](http://www.cnn.com/2009/OPINION/12/29/schneier.air.travel.security.theater/index.html):
+
+
+
+<blockquote>Despite fearful rhetoric to the contrary, terrorism is not a transcendent threat. A terrorist attack cannot possibly destroy a country's way of life; it's only our reaction to that attack that can do that kind of damage. The more we undermine our own laws, the more we convert our buildings into fortresses, the more we reduce the freedoms and liberties at the foundation of our societies, the more we're doing the terrorists' job for them.</blockquote>
+
+
+
+The Christmas Day attempted bomber got on the plane outside the US. Why is everyone questioning the TSA in the US and not the security in Nigeria or Amsterdam? But the TSA never disappoints the cynics: they banned using the bathroom or having blankets on your lap in the last hour of the flight and  showing the plane's location on screens. Are terrorists smart enough to build bombs and sneak them through security but too stupid to use a watch to know when the plane is about to land? Are we really not worried about planes exploding unless they're near the destination?

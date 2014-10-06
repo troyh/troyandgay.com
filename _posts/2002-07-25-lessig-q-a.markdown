@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: false
+date: 2002-07-25 16:21:45+00:00
+layout: post
+slug: lessig-q-a
+title: Lessig Q & A
+wordpress_id: 1490
+---
+
+Library Journal: [Copyright in the Balance](http://libraryjournal.reviewsnews.com/index.asp?layout=article&articleid=CA231610&publication=libraryjournal). Q&A with Lawrence Lessig. We need to be much more aggressive in calling people on this rhetoric, because it's just wrong. It's just not the case that copyright has ever been understood to mean that if you use a copyrighted work in a way unintended by the copyright owner that's "theft." [[Tomalak's Realm](http://www.tomalak.org/)]

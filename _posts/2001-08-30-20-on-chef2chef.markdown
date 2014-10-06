@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: false
+date: 2001-08-30 07:00:00+00:00
+layout: post
+slug: 20-on-chef2chef
+title: '#20 on Chef2Chef'
+wordpress_id: 1396
+---
+
+Up to #20 on [Chef2Chef](http://chef2chef.net/rank/inter.shtml), right behind AllRecipes!

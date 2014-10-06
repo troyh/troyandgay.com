@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2002-10-06 00:29:42+00:00
+layout: post
+slug: sendpage
+title: Sendpage!
+wordpress_id: 1666
+---
+
+Found [Sendpage](http://sendpage.cpoint.net/), that will send me (Netsaint) pages when our internet connection is down. I love GPL'd software!

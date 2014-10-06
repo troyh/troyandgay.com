@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-08-19 19:50:29+00:00
+layout: post
+slug: '2304'
+title: No Content Found
+wordpress_id: 2304
+---
+
+Kuro5hin's [How to Mix the Perfect Martini](http://www.kuro5hin.org/story/2003/8/19/02714/6404) doesn't even mention [Bombay Sapphire](http://www.bombaysapphire.com/) or Cinzano Vermouth. Beefeater?! Martini & Rossi?! There's 2 ingredients in a martini and he got 'em both wrong.

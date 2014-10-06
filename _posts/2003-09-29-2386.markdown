@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-09-29 01:24:04+00:00
+layout: post
+slug: '2386'
+title: No Content Found
+wordpress_id: 2386
+---
+
+A NYT [article](http://www.nytimes.com/2003/09/29/business/media/29FLIX.html?ex=1380168000&en=ec201c9a9400f866&ei=5007&partner=USERLAND) on Netflix ends, interestingly enough, with a comment from the founder & CEO of TiVo. Netflix & TiVo need to merge or partner so I can download movies to my TiVo that I rent through Netflix.

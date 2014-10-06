@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: false
+date: 2001-09-10 07:00:00+00:00
+layout: post
+slug: 18-on-chef2chef
+title: '#18 on Chef2Chef'
+wordpress_id: 1399
+---
+
+#18 on [Chef2Chef](http://chef2chef.net/rank/inter.shtml), with an average rating of 4.3.

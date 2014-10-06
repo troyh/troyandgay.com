@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-05-28 00:52:00+00:00
+layout: post
+slug: scumware
+title: Scumware
+wordpress_id: 2101
+---
+
+Did you know there is software that can be installed which completely changes the way another website looks without you realizing it?  [Recipezaar itself has been a victim](http://www.recipezaar.com/bb/viewtopic.zsp?t=35459) -- well, technically the users who (often accidentally) install this scumware are really the victims but it is the sites that suffer.  In our case, the [scumware](http://www.scumware.com/) changes the code of the Amazon ad on our home page, so that another site instead of us gets the credit for any purchases our users make there.  Not only that but the software immediately redirects the user to Amazon, so we lose them.  There is worse scumware out there as well, which changes links on the page or removes YOUR advertising and places competitors ads right on our site.  This should just be illegal, but we don't have the money to sue these creeps....  Know what is worse?  Because of the way Windows is architected there is no way to know if you have this software installed on your machine because they can hide themselves from the Add/Remove programs control panel -- ARG!!!

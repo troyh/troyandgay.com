@@ -1,0 +1,13 @@
+---
+author: troyh
+comments: true
+date: 2003-09-03 18:16:53+00:00
+layout: post
+slug: '2333'
+title: No Content Found
+wordpress_id: 2333
+---
+
+[The Register](http://www.theregister.co.uk/content/56/32635.html): _US Attorney John McKay has described Parson as a "key figure" in the computer worm incident._
+
+This is another case of the feds covering up the fact that they just can't catch the original worm author (or any worm author, for that matter) so they're going to pretend like they caught him. And people will believe it. Although this kid should be held responsible for his actions, he did very little in comparison (3%?) to the original Blaster worm.

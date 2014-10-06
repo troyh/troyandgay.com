@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2002-08-19 03:39:55+00:00
+layout: post
+slug: bugzilla-216
+title: Bugzilla 2.16
+wordpress_id: 1549
+---
+
+Installed the latest [Bugzilla](http://fumweb/bugzilla/reports.cgi?product=-All-&output=most_doomed&links=1&banner=1).

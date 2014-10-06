@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-07-17 06:50:24+00:00
+layout: post
+slug: '2233'
+title: No Content Found
+wordpress_id: 2233
+---
+
+Is the availability of MP3s today preventing music from being the soundtrack to our life? [Rogier Van Bakel](http://www.nytimes.com/2003/07/17/technology/circuits/17tune.html?ex=1373860800&en=eae8900c59d0728a&ei=5007&partner=USERLAND) thinks so.

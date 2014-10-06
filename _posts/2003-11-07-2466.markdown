@@ -1,0 +1,17 @@
+---
+author: troyh
+comments: true
+date: 2003-11-07 17:30:45+00:00
+layout: post
+slug: '2466'
+title: No Content Found
+wordpress_id: 2466
+---
+
+It's been a busy week... yesterday we went into Seattle to put a server back after replacing the CPU fan that died on it. It's nice to have so much redundancy and be able to just slipstream a new server in to distribute the load or to take one out to upgrade it without affecting anything. Just a couple years ago, the entire site was run on one machine. Now it runs on nine servers (3 web servers, 2 database servers, 2 load-balancers and one backup load balancer and one NFS server)!
+
+Before coming home, we had an Indian buffet at [a West Seattle restaurant](http://www.alkibeach.com/eatsdetail.asp?eatsID=38). Yum! We've eaten there several times but yesterday was especially good.
+
+We finally saw [The Italian Job](http://www.italianjobmovie.com/flash/index.html) last night. I loved it! There was some dumb computer cracker stuff in it (the skill of a computer cracker is not that they can think up people's passwords and retry them til they get in), as usual these days, but it didn't annoy me that much this time. It was a very entertaining movie, and I love the [Mini](http://www.mini.com/)s! We also saw [The Man Who Wasn't There](http://www.imdb.com/title/tt0243133/) this week. Not worth the time.
+
+The house is _still_ being painted but it's very close to being done. It's just trim and touch-ups now. And it's been a very cold week, in the 30s which is bitter cold for Seattle. I've avoided getting sick at least (can't say that for Gay, though). I feel sorry for the painter who has to be outside all day long. But Ouzo just loves hanging out with him all day.

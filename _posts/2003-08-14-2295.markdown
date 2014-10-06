@@ -1,0 +1,13 @@
+---
+author: troyh
+comments: true
+date: 2003-08-14 18:24:14+00:00
+layout: post
+slug: '2295'
+title: No Content Found
+wordpress_id: 2295
+---
+
+Just to dispel any doubt that Microsoft has a monopoly on desktop apps, they're [pricing Office 2003](http://news.com.com/2100-1012-5063546.html) at up to a 33% increase in cost over the last version. Gates talks a lot about how computers are getting less expensive and he's right, the average price of a computer is now $600. Yet the software to run it is going up and can easily double the cost of a computer if it includes Microsoft software (Windows and Office). Only a monopoly has the power to do that.
+
+But people will pay it. They'll buy the $99 DVD player over the $199 player, they'll buy the $6 bottle of wine over the $8 bottle of wine, they'll shop at WalMart & Costco and they'll use coupons at the grocery store and they'll complain bitterly that the government takes taxes. But they'll shell out the equivalent of their annual car insurance bill, enough money to buy baby food for three months, their annual cable TV bill, four dentist appointments, two car payments, eight pairs of shoes, etc. for a word processor and spreadsheet that does nothing more than the one they bought six years ago and that they use a few times a year. And they won't even question it. And they'll name Microsoft as the [#2 brand for value](http://biz.yahoo.com/prnews/030724/nyth165_1.html)!

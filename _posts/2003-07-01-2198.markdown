@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-07-01 03:53:29+00:00
+layout: post
+slug: '2198'
+title: No Content Found
+wordpress_id: 2198
+---
+
+[The PC industry pandering to Hollywood's interests](http://www.nytimes.com/2003/06/30/technology/30SECU.html) is going to make computers your enemy, the tech industry slow to a crawl and a huge part of the US economy shrink. When only the largest companies support something, you can be sure it's bad for consumers.

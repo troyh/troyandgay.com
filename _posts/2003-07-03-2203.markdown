@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-07-03 15:21:34+00:00
+layout: post
+slug: '2203'
+title: No Content Found
+wordpress_id: 2203
+---
+
+[BBC](http://newsvote.bbc.co.uk/sport2/hi/other_sports/cycling/tour_de_france_2003/3040964.stm): _The Texan is hot favourite to land his fifth straight win and join an elite group of four others to have won the world's most gruelling cycle race five times. _

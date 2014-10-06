@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: false
+date: 2001-10-14 10:47:00+00:00
+layout: post
+slug: mariners-5
+title: Mariners
+wordpress_id: 1413
+---
+
+Mariners won Game #4, 6-2.

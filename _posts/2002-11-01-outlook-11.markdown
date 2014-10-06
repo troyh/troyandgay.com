@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2002-11-01 16:29:57+00:00
+layout: post
+slug: outlook-11
+title: Outlook 11
+wordpress_id: 1747
+---
+
+[New Outlook to give spammers the boot - Tech News - CNET.com](http://rss.com.com/2100-1001-964166.html?type=pt&part=rss&tag=feed&subj=news): _Outlook 11 will, by default, no longer grab data such as images from outside servers when previewing e-mail formatted like Web pages._  This is actually very good, assuming that it still supports MHTML. It'll cut down on our bandwidth costs since sending larger emails is "free". But it will be harder for us to create the Eater's Digest message. I created [bug #2211](http://fumweb/bugzilla/show_bug.cgi?id=2211) to track this.

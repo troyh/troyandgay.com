@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2004-08-19 19:52:00+00:00
+layout: post
+slug: google-ipo-2
+title: Google IPO
+wordpress_id: 2736
+---
+
+Google's IPO ("GOOG":http://finance.yahoo.com/q?s=goog) went live today, started at $85 and rose to $100, earning them $1.6 billion and valuing the company at $23 billion and created three new (paper) billionaires. Not bad for a company whose original plan was to sell the technology to Yahoo for $1 million. Now they just "have to earn several more billion dollars":http://news.com.com/Finding+Google%27s+next+billion/2100-1024_3-5314025.html?part=rss&tag=5314025&subj=news.1024.5 to keep their shareholders happy.

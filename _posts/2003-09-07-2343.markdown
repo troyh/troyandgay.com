@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-09-07 18:00:45+00:00
+layout: post
+slug: '2343'
+title: No Content Found
+wordpress_id: 2343
+---
+
+[Ted Koppel discusses](http://www.onlisareinsradar.com/archives/001699.php) the [Patriot Act](http://www.politechbot.com/docs/usa.act.final.102401.html). It's scary that even now the DoJ can't understand what is so wrong about it.

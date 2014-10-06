@@ -1,0 +1,13 @@
+---
+author: troyh
+comments: true
+date: 2003-08-26 02:18:04+00:00
+layout: post
+slug: '2319'
+title: No Content Found
+wordpress_id: 2319
+---
+
+After over three months without my iBook, I've finally got it back and am posting this with it! Earlier this year, my iBook started exhibiting the "Angle of Death" problem: if the screen is opened to too large an angle, the screen would go black. I needed a replacement cable so I disassembled the iBook. That is _not_ advisable, there are a zillion tiny little screws of differing sizes and you have to completely disassemble the entire laptop. A couple screws wouldn't even come out so I had to drill them out.
+
+The replacement cable wasn't even easy to order. It took several calls and emails to [SmallDog](http://smalldog.com), but I finally got it. After disassembling the laptop, I was skeptical that the new cable would fix it since the old one didn't look frayed as I expected it to be. But I put the new one in anyway and I got it all put back together this evening, powered it up and it works great. I've got a few extra screws somehow, though.

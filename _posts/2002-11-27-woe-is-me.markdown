@@ -1,0 +1,17 @@
+---
+author: troyh
+comments: true
+date: 2002-11-27 20:22:10+00:00
+layout: post
+slug: woe-is-me
+title: Woe is me
+wordpress_id: 1799
+---
+
+Last night, a little after 9pm, tokyo went bonkers. The cache updating combined with heavy traffic brought the SQL server to it's knees. I couldn't even get an ssh login! An hour later, I called Aaron at CoLo to reset the machine. After 11pm, he was there and reset it. But it didn't work; the machine just refused to boot. By midnight, we came to the conclusion that we would have to go into Seattle and try to fix the machine ourselves. This is the day before our expected biggest day ever, btw.
+
+By 1:15am, we packed our stuff up, burned CDs with a database backup and a MySQL installation. We took the 1:30am ferry into Seattle and headed to the Westin building. About 5 minutes before we arrived, my cell phone notified me that tokyo was OK! We got to the machine and found it was just fine (although the clock was off by an hour since the hardware clock is not as smart as the software clock wrt Daylight Savings Time).
+
+We went back to the Fauntleroy dock and waited til 5:30am when the first ferry took us back to Vashon.
+
+We need some backup/redundancy plan.

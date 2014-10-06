@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-03-15 00:45:59+00:00
+layout: post
+slug: mysql
+title: MySQL
+wordpress_id: 1957
+---
+
+First BusinessWeek [talks](http://www.troyandgay.com/archives/2003/02/001237.php) about Linux, now Fortune [talks](http://www.fortune.com/fortune/fastforward/0,15704,431733,00.html) about another great open source product: [MySQL](http://mysql.com). We love MySQL and, of course, it powers [Recipezaar](http://recipezaar.com).

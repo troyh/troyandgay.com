@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-06-27 18:15:58+00:00
+layout: post
+slug: '2188'
+title: No Content Found
+wordpress_id: 2188
+---
+
+Wal-Mart is responsible for getting UPC bar codes into every product sold in the US. I learned this from a [great article on RFIDs](http://securityfocus.com/columnists/169). If you don't know what an RFID is and you care at all about your privacy, read [the article](http://securityfocus.com/columnists/169) because Wal-Mart will also get RFIDs put into every product you buy in the US.

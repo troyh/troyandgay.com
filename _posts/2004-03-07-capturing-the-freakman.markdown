@@ -1,0 +1,15 @@
+---
+author: troyh
+comments: true
+date: 2004-03-07 06:10:25+00:00
+layout: post
+slug: capturing-the-freakman
+title: Capturing the Freakman
+wordpress_id: 2590
+---
+
+Just finished watching [Capturing the Friedmans](http://www.rottentomatoes.com/m/CapturingtheFriedmans-1123004/). What a waste of 2 hours. It's a documentary on a father and son accused of pedophilia filmed by the other son through home videos. It's got all the hallmarks of a "wrongful-conviction-in-puritanical-America-run-by-eager-to-convict-police", but near the end we find out that he actually is a pedophile and got away with it years before. There was a point where the son's lawyer told him that his father, interviewing him in jail, asked to move to a different table because the 5 year old boy bouncing on his dad's knee at the next table was "arousing him". The moviemaker-in-denial son said to that, "What does aroused mean? If you rub up against a tree and you get aroused, that doesn't mean you're a pedophile. That statement [by my father] means nothing." Yeah... if I tell you that the steak on the grill makes my mouth water and I've been known to eat steak in the past, there's really no sign at all that I may not be a vegetarian.
+
+And then the son goes to trial and admits to molesting children, breaking down in tears, blaming his father for causing it by molesting him and apologizing for molesting children himself. Huh?  You do this in court when you're innocent? Which story are we to believe: The one where you stoically say you're innocent or the one where you show emotion and admit your guilt?
+
+So we're supposed to feel sympathy for a pedophile because he _may_ not have molested the children that came to his house for computer classes, although he did molest children in the past? Where's the documentary about those children he did molest? In addition to the current MPAA rating system, we need a "Bleeding Heart Liberal, No one is ever guilty" rating so I can avoid this drivel. After seeing this movie, I can only say that I feel even more sympathy for the people who truly are innocent and wrongfully-convicted because their stories are not being heard while this unworthy movie is getting all the attention (it was [nominated for an Oscar](http://www.oscar.com/nominees/nom_33105.html)!).

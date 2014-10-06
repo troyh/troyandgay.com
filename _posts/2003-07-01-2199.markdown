@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-07-01 04:11:21+00:00
+layout: post
+slug: '2199'
+title: No Content Found
+wordpress_id: 2199
+---
+
+_Phew!_ After four weeks of development and 2,000 lines of code and lots of testing, our new recipe editing system is live on [the site](http://recipezaar.com). This is going to make our recipe editing/correction job much much much easier.

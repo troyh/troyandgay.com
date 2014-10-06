@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-02-03 18:27:06+00:00
+layout: post
+slug: movie
+title: Movie
+wordpress_id: 1877
+---
+
+Saw [Frailty](http://www.realgoodmovies.com/frailty.php) last night. Very good movie.

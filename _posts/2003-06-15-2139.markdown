@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-06-15 23:48:59+00:00
+layout: post
+slug: '2139'
+title: No Content Found
+wordpress_id: 2139
+---
+
+Lance Armstrong [won the Dauphiné-Libéré today](http://sports.yahoo.com/sc/news?slug=reu-dauphine&prov=reuters&type=lgns). [OLN](http://olntv.com) has shown several other races this year, why didn't they televise this race?

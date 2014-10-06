@@ -1,0 +1,15 @@
+---
+author: troyh
+comments: true
+date: 2003-11-01 19:01:56+00:00
+layout: post
+slug: '2451'
+title: No Content Found
+wordpress_id: 2451
+---
+
+It's my birthday and Saturday morning so I'm catching up on some online reading and here's some interesting things I've found, in no particular order...
+
+[Meg](http://www.megnut.com/archive.asp?which=2003_10_01_archive.inc#007532) has a great experience with Apple's customer service. [IT on $5/day](http://www.infoworld.com/infoworld/reports/SRitbudget.html) is inline with the way we do IT on [Recipezaar](http://recipezaar.com); inexpensive commodity hardware is a wonderful thing. [Jason Kottke](http://www.kottke.org/03/10/expose-panther) suggests an improvement to Mac OS X's Exposé feature. I am still in love with OS X 10.3, but Tim O'Reilly has some [criticisms of it](http://jim.roepcke.com/6644) and about the future of technology.
+
+[A more realistic audio](http://www.blogjam.com/neil_armstrong/) of Armstrong walking on the moon. ![](/img/smile.gif) (Warning: profanities ahead).

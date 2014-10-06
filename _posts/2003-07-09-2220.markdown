@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-07-09 21:27:40+00:00
+layout: post
+slug: '2220'
+title: No Content Found
+wordpress_id: 2220
+---
+
+[James Surowiecki](http://www.newyorker.com/talk/content/?030714ta_talk_surowiecki): _But you dont compete by outlawing your competition._

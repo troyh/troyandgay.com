@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2002-12-23 09:24:52+00:00
+layout: post
+slug: chandler
+title: Chandler
+wordpress_id: 1817
+---
+
+Another article on [Mitch Kapor's OSAF](http://digitalmass.boston.com/news/2002/12/20/kapor.html). It's interesting in the sense that they're really trying to spur some competition in the PIM market so that Outlook may get better.

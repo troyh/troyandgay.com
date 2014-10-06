@@ -1,0 +1,15 @@
+---
+author: troyh
+comments: true
+date: 2003-11-01 18:42:11+00:00
+layout: post
+slug: '2450'
+title: No Content Found
+wordpress_id: 2450
+---
+
+[The Economist on Google](http://www.economist.com/displaystory.cfm?story_id=2173573). I think Yahoo is in a much better position than Google is simply because they own [Overture](http://overture.com), Google's equally-sized rival. Besides, the cost of switching search engines is very low so Google has no real advantage. And I wish Apple would give Safari users a choice of search engines in the search box.
+
+That Microsoft is again [interested in purchasing Google](http://www.nytimes.com/2003/10/31/technology/31net.html) is a non-issue as well. Microsoft is not going to migrate Google's [10,000 linux servers](http://www.google.com/press/highlights.html) to Windows the way they tried, failed, tried, failed, tried and partially-succeeded when they bought Hotmail in 1997.
+
+In my opinion, a Google IPO next year is simply a get-rich-quick scheme by [Kleiner-Perkins](http://www.kpcb.com/).

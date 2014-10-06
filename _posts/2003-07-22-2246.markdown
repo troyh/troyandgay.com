@@ -1,0 +1,13 @@
+---
+author: troyh
+comments: true
+date: 2003-07-22 16:36:58+00:00
+layout: post
+slug: '2246'
+title: No Content Found
+wordpress_id: 2246
+---
+
+[Buy.com](http://buy.com), once my favorite online store, the one with the [original crazy business model](http://www.businessweek.com/1999/99_12/b3621006.htm), just launched [BuyMusic.com](http://buymusic.com) today. The site is a poor rip-off of Apple's iTunes Music Store, but the commercials ([1](http://ak.buy.com/buy_assets/v6/buymusic/commercials/tommylee300k.wmv), [2](http://ak.buy.com/buy_assets/v6/buymusic/commercials/superfreak300k.wmv) & [3](http://ak.buy.com/buy_assets/v6/buymusic/commercials/rappersdelight300k.wmv)) are good rip-offs of Apple's commercials.
+
+And I guess they're right when they say it's music downloading "for the rest of us" because the site doesn't work on any Mac browser I tried. Dumb. And even dumber are the more restrictive DRM restrictions on the music. But they are cheaper than Apple's prices (79¢ versus 99¢ per song) but the selection is much smaller.

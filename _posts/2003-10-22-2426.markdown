@@ -1,0 +1,13 @@
+---
+author: troyh
+comments: true
+date: 2003-10-22 16:03:57+00:00
+layout: post
+slug: '2426'
+title: No Content Found
+wordpress_id: 2426
+---
+
+Walt Mossberg [reviews the new music services](http://ptech.wsj.com/archive/solution-20031022.html). He correctly concludes that iTunes is the best (but neglects to point out MusicMatch's and Napster's biggest flaw: they don't support Macs, the platform where 70% of the legal online music-buying is done today). One feature I'd like to see in iTunes is the ability to re-download songs I've purchased, a feature Napster has, apparently. And they all should allow me to listen to the entire album several times before I purchase it.
+
+But as impatient as I've been in a good download service and as amazed at how well the iTunes store works, I find that I won't download music from iTunes either. I'd rather pay the extra $5 for a CD and get a higher-quality version, in spite of the fact that the majority of my music-listening is done on my computer or my iPod. The best feature of an online service is that I get the music immediately, but they still can't beat the free file-sharing services on that. I routinely get music that isn't even available yet on these services or even available on CD. And file-sharing services give me the best feature of all: I can hear an entire song/album before making my buying decision. I buy much fewer CDs I don't like these days but buy more total CDs, and that's good for me and for the music industry.

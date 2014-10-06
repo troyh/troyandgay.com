@@ -1,0 +1,13 @@
+---
+author: troyh
+comments: true
+date: 2003-11-19 19:11:00+00:00
+layout: post
+slug: '2498'
+title: No Content Found
+wordpress_id: 2498
+---
+
+I thought the recent update to Panther solved my Bluetooth iSync problem (kernel panic!), but I just sync'd and _boom!_, another kernel panic. I hope the [forthcoming 10.3.2](http://www.microsoft-watch.com/article2/0,4248,1387600,00.asp) fixes this once and for all!
+
+Speaking of the Mac, [Bill Joy loves his G5](http://www.wired.com/wired/archive/11.12/billjoy.html?tw=wn_tophead_3). It's surprising to see a very wealthy person who cares about the problems the world faces and even more surprising that he's talking about it.

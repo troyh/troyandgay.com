@@ -1,0 +1,13 @@
+---
+author: troyh
+comments: true
+date: 2003-11-11 16:14:13+00:00
+layout: post
+slug: '2479'
+title: No Content Found
+wordpress_id: 2479
+---
+
+Uh oh, two packages being delivered via FedEx ground this week. Why is "ground" always FedEx these days? Fortunately, they're both shipping from California and are both scheduled to be delivered on Thursday. Thursday is when the "good FedEx driver" is working my area. I'm optimistic that the FedEx problems ([1](http://www.troyandgay.com/archives/2003/10/001753.php), [2](http://www.troyandgay.com/archives/2003/10/001786.php), [3](http://www.troyandgay.com/archives/2003/11/001799.php)) are behind us and they'll be back to their reliable service.
+
+One package is a [tricked-out case](http://www.overclockercafe.com/Reviews/cases/X-DreamerII/) for our new combination firewall/mail server and the other is a really nice [managed switch](http://www.hp.com/rnd/products/switches/switch2524-2512/summary.htm) that will replace our (almost full) switch at our colocation site. I'm pretty excited about the switch. And check out [the warranty](http://www.hp.com/rnd/support/warranty/index.htm) on it -- free next-day replacement for as long as I own it. Granted, it's a switch so there's little that can go wrong, but it's reassuring.

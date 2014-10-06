@@ -1,0 +1,15 @@
+---
+author: troyh
+comments: true
+date: 2003-08-29 05:40:21+00:00
+layout: post
+slug: '2323'
+title: No Content Found
+wordpress_id: 2323
+---
+
+[MyWireService](http://mywireservice.com) just got [a great review](http://www.ctsdownloads.com/blog/2003_08_24_archive.html#106207144079114195):
+
+_Awesome user interface, easy to get started without instructions, and clever "add ons". This is without a doubt the ultimate RSS feed tool for newbie's. It gives me great pleasure to give this service a 5 out 5 rating. They will be charging $9.99/year after the beta period ends and normally I would dock them a point for that. To be fair though, I can not ignore the tremendous job that they have done to create a really great service. With this in mind I will cut them a break and stick with my 5 out 5 rating. After all people, bandwith is expensive and they are asking for less than a buck per month!_
+
+It's nice when people recognize your hard work. And I like that he explicitly recommended it for newbies, which is our target market!

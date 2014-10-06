@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-12-24 17:18:54+00:00
+layout: post
+slug: '2524'
+title: No Content Found
+wordpress_id: 2524
+---
+
+The internet and democratic software are visible players in the 2004 Presidential election. This is  a far cry from just the 1996 election where no candidate even knew what the internet was and few even used computers. But 2004 is different. Clark is [starting an open source project](http://www.wired.com/news/politics/0,1283,61723,00.html) to build campaign software for anyone to use. And Dean, the most internet-aware candidate, has been [aggressively using the internet](http://www.wired.com/wired/archive/12.01/dean.html) in his campaign. Coincidentally, we were notified by our ad agency a couple days ago that the Dean campaign has bought advertising on [Recipezaar](http://recipezaar.com). We're going to be part of US History as I'm sure the internet will continue to play a larger role in politics. (I'd better study up on Dean's platform cuz I'm sure we'll be accused of being Dean-supporters because of this).

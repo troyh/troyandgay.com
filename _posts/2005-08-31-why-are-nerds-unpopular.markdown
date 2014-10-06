@@ -1,0 +1,75 @@
+---
+author: troyh
+comments: true
+date: 2005-08-31 04:39:59+00:00
+layout: post
+slug: why-are-nerds-unpopular
+title: Hackers & Painters
+wordpress_id: 3116
+---
+
+I just read Paul Graham's _[Hackers and Painters](http://safari.oreilly.com/?x=1&mode=section&sortKey=title&sortOrder=asc&view=&xmlid=0596006624&g=&catid=&s=1&b=1&f=1&t=1&c=1&u=1&r=&o=1&n=1&d=1&p=1&a=0)_. Paul Graham is the founder of one of the first web companies, viaWeb, an online storefront hosting company that was bought by [Yahoo!](http://yahoo.com) in 1997 and is now [Yahoo! Stores](http://smallbusiness.yahoo.com/merchant/).
+
+<!-- more -->
+
+The book is a series of essays written by [Paul Graham](http://www.paulgraham.com/). It's somewhat random, and gets a lot into why [Lisp](http://en.wikipedia.org/wiki/Lisp_programming_language) is so great (which is where he lost me), but the general theme is that programmers ("hackers") are closer to artists than they are to engineers. I agree with the premise, I've never thought of programming as "engineering", it's way too fluid, it's way too trial-and-error, to be a science. I never liked the way programmers acted like they were geniuses... if an idiot like me can program a computer, it can't require a high IQ. So the book's premise resonated with me because just as painters paint by doing, learning, re-doing, learning more and building upon their previous works, as a programmer, I just sit down and start writing code without much design or thinking about it beforehand. But it gets more interesting than that, but more on that later. First, the geek stuff I liked....
+
+Chapter 1 explains, accurately I think, why smart kids are not popular. I am of average intelligence and of average popularity in high school, but I do agree that I, like Paul Graham, simply didn't care about being popular. I cared about "building great things":
+
+
+
+<blockquote>
+The key to this mystery is to rephrase the question slightly. Why don't smart kids make themselves popular? If they're so smart, why don't they figure out how popularity works and beat the system, just as they do for standardized tests?
+
+One argument says that this would be impossible, that the smart kids are unpopular because the other kids envy them for being smart, and nothing they could do could make them popular. I wish. If the other kids in junior high school envied me, they did a great job of concealing it. And in any case, if being smart were really an enviable quality, the girls would have broken ranks. The guys that guys envy, girls like.
+
+In the schools I went to, being smart just didn't matter much. Kids didn't admire it or despise it. All other things being equal, they would have preferred to be on the smart side of average rather than the dumb side, but intelligence counted far less than, say, physical appearance, charisma, or athletic ability.
+
+So if intelligence in itself is not a factor in popularity, why are smart kids so consistently unpopular? The answer, I think, is that they don't really want to be popular.
+
+If someone had told me that at the time, I would have laughed at him. Being unpopular in school makes kids miserable, some of them so miserable that they commit suicide. Telling me that I didn't want to be popular would have seemed like telling someone dying of thirst in a desert that he didn't want a glass of water. Of course I wanted to be popular.
+
+But in fact I didn't, not enough. There was something else I wanted more: to be smart. Not simply to do well in school, though that counted for something, but to design beautiful rockets, or to write well, or to understand how to program computers. In general, to make great things.
+</blockquote>
+
+
+
+And I like this, on his explanation of why people get upset about some statements and not others:
+
+
+
+<blockquote>
+No one gets in trouble for saying that 2 + 2 is 5, or that people in Pittsburgh are ten feet tall. Such obviously false statements might be treated as jokes, or at worst as evidence of insanity, but they are not likely to make anyone mad. The statements that make people mad are the ones they worry might be believed. I suspect the statements that make people maddest are those they worry might be true.
+
+If Galileo had said that people in Padua were ten feet tall, he would have been regarded as a harmless eccentric. Saying the earth orbited the sun was another matter. The church knew this would set people thinking.</blockquote>
+
+
+
+I read the book because of the hacker/painter analogy, but found it interesting because of his essays on business, countries and wealth-creation. He calls the notion that there is a finite amount of wealth in the world "The Pie Fallacy", i.e. that wealthier people have a larger portion of the wealth pie than poor people. The fallacy is that wealth is not fixed, it grows. And it grows because people, who become wealthy, create wealth. But in doing so, they don't make other people more poor:
+
+
+
+<blockquote>
+What leads people astray here is the abstraction of money. Money is not wealth. It's just something we use to move wealth around. So although there may be, in certain specific moments (like your family, this month) a fixed amount of money available to trade with other people for things you want, there is not a fixed amount of wealth in the world. You can make more wealth. Wealth has been getting created and destroyed (but on balance, created) for all of human history.
+
+Suppose you own a beat-up old car. Instead of sitting on your butt next summer, you could spend the time restoring your car to pristine condition. In doing so you create wealth. The world is—and you specifically are—one pristine old car the richer. And not just in some metaphorical way. If you sell your car, you'll get more for it.
+
+In restoring your old car you have made yourself richer. You haven't made anyone else poorer. So there is obviously not a fixed pie. And in fact, when you look at it this way, you wonder why anyone would think there was.
+</blockquote>
+
+
+
+It's somewhat obvious, but he uses the terms _measurement_ and _leverage_ to describe requirements for wealth-creation. Measurement is the extent to which your job performance can be directly measured to the benefit of the company. For example, a salesman's performance clearly shows in sales numbers, hence, it is measurable.
+
+Leverage is the extent to which your effort scales to more people. Why do inventors and  technologists create so much wealth? Because they have leverage:
+
+
+
+<blockquote>
+What is technology? It's technique. It's the way we all do things. And when you discover a new way to do things, its value is multiplied by all the people who use it. It is the proverbial fishing rod, rather than the fish. That's the difference between a startup and a restaurant or a barber shop. You fry eggs or cut hair one customer at a time. Whereas if you solve a technical problem that a lot of people care about, you help everyone who uses your solution. That's leverage.
+
+If you look at history, it seems that most people who got rich by creating wealth did it by developing new technology. You just can't fry eggs or cut hair fast enough. What made the Florentines rich in 1200 was the discovery of new techniques for making the high-tech product of the time, fine woven cloth. What made the Dutch rich in 1600 was the discovery of shipbuilding and navigation techniques that enabled them to dominate the seas of the Far East.</blockquote>
+
+
+
+The book is a quick read (I read it completely online at [O'Reilly's Safari](http://safari.oreilly.com/)), very straightforward, clearly-written and just downright well thought-out.

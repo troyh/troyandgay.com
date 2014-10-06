@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-03-03 20:18:25+00:00
+layout: post
+slug: knuth
+title: Knuth!
+wordpress_id: 1928
+---
+
+I ordered [Knuth's Sorting and Searching](http://half.ebay.com/cat/buy/prod.cgi?cpid=77639&domain_id=1856&meta_id=1) from [Half.com](http://half.ebay.com) to replace my lost copy. Not a bad thing considering it only cost $20 and it's the 1998 edition whereas my old one was the 1973 edition. One day, when I get rich, I'm gonna buy the entire Knuth Art of Computer Programming box set! This is my first purchase from Half.com so I'm a little worried about the outcome. And why doesn't Half.com (an eBay company) accept PayPal (another eBay company) payments?!

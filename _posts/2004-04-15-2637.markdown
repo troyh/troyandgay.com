@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2004-04-15 18:18:14+00:00
+layout: post
+slug: '2637'
+title: No Content Found
+wordpress_id: 2637
+---
+
+Tim Berners-Lee [awarded $1.23 million](http://story.news.yahoo.com/news?tmpl=story&cid=582&e=3&u=/nm/20040415/wr_nm/tech_www_award_dc) for his invention of the web. It's nice to see someone work hard and be rewarded.

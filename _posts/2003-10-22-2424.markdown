@@ -1,0 +1,13 @@
+---
+author: troyh
+comments: true
+date: 2003-10-22 06:45:30+00:00
+layout: post
+slug: '2424'
+title: No Content Found
+wordpress_id: 2424
+---
+
+[More news](http://archives.seattletimes.nwsource.com/cgi-bin/texis.cgi/web/vortex/display?c=1&slug=webteendeath21&date=20031021&query=vashon) on the Vashon girl who was killed. Her father is the "family member" who was arrested. Still no word on the cause of death, but it sounds like she was injured somehow. She [lived right behind the grocery store](http://maps.yahoo.com/maps_result?ed=5yA7R.p_0TqQBUaPqbbXRLCLSViUyhYtY.T9kg--&csz=vashon%2C+wa&country=us). I didn't even know there were apartments there (4 miles from our house).
+
+Why is it so hard to keep up-to-date on a particular news story? I had to search our local newspaper's web site to get new news. I wish I could subscribe to a story and get the updates in [my favorite news aggregator](http://mywireservice.com).

@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-05-22 19:39:08+00:00
+layout: post
+slug: '2085'
+title: No Content Found
+wordpress_id: 2085
+---
+
+Had a morning meeting with a neighbor and her web designer about setting up [VashonIsland.net](http://vashonisland.net) and making it a great local community web site for Vashon Island.

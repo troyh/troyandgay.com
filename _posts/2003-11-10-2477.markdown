@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-11-10 17:03:45+00:00
+layout: post
+slug: '2477'
+title: No Content Found
+wordpress_id: 2477
+---
+
+[Time Magazine](http://www.time.com/time/2003/inventions/invmusic.html): Other inventions this year may have more altruistic intentions (like Dean Kamen's water purifier) or be more visible on street corners (like those ubiquitous camera cell phones). But for finally finding a middle ground between the foot-dragging record labels and the free-for-all digital pirates and for creating a bandwagon onto which its competitors immediately jumped, Apple's iTunes Music Store is Time's Coolest Invention of 2003.

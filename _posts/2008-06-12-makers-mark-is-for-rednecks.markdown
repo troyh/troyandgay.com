@@ -1,0 +1,44 @@
+---
+author: troyh
+comments: true
+date: 2008-06-12 15:00:00+00:00
+layout: post
+slug: makers-mark-is-for-rednecks
+title: Maker's Mark is for rednecks?
+wordpress_id: 3385
+---
+
+![](http://i296.photobucket.com/albums/mm173/kmissik/100_2003.jpg)
+
+I get monthly marketing emails from Maker's Mark which talk about happenings at Maker's Mark. In May, a Democratic Party in Kentucky invited Hillary Clinton to the Maker's Mark distillery for a tour. Maker's Mark welcomed her and they mentioned it in their monthly email. Apparently, they were bombarded with hate mail for allowing Hillary to visit. They got so much that they had to issue an apology on "their blog":http://blog.makersmark.com:
+
+bq. As you know from the email we sent out Friday, one of the presidential candidates paid us a visit over the weekend. We've gotten some pretty passionate emails from a few of you and wanted to make sure you knew we weren't endorsing anyone.
+
+bq. The Marion County Democratic Club invited Mrs. Clinton to Marion County and to our distillery. We extended her the same kindness we would any visiting dignitary, be it a political person or other celebrity, including Ambassadors.
+
+bq. Anyway, we hope we didn't offend anyone. We have always promised to let the Ambassadors know first about new and interesting things happening with us and the distillery. We thought letting y'all now about her visit fell into that category.
+
+Commenters on the blog demonstrated their intellect:
+
+
+<!-- more -->
+
+bq. Don't blame Bill [Samuels, son of the founder] and the gang; no one knew she was coming until late. Lil' ole' me was treated like a dignitary and I very much appreciated the MM staff's eagerness and attention to giving me world class service (made me blush). I got better treatment than Hillary...umm...err...no one tossed tomatoes at me!
+
+bq. I will add that Bill's Bourbon aged a lot nicer than Hillary and dispel rumors that hapless bipartisan ambassadors tried dipping her in red wax.
+
+bq. With Hillarys visit to Makers Mark distillery I hope we do not end up with a batch of sour mash because she has that effect on things ha ha.
+
+bq. My initial thought that you invited her made me very unhappy.
+
+bq. This was one of those life time trips ruined by Hillary.
+
+And look how "D Morgan" shows how two-faced "southern hospitality" is:
+
+bq. It wouldn't have been right to turn her away. It's just good Southern hospitality to treat even the worst among us with courtesy. Even when you slam someone, you do so with courtesy. For example, where I'm from, you can say the most vile thing imagineable about someone, and as long as you end it with "bless his/her heart," then you've been polite.
+
+I understand that bourbon is not and should not be political and that Maker's Mark is a business, not a political tool. But I had always thought that Maker's Mark appealed to, and was marketed to, the more intelligent and open-minded segment of society. I assumed Maker's Mark customers were the kind of people who would appreciate that a strong, intelligent, capable and one of the greatest Americans visited the distillery, regardless of their political views. The kind of people who would not be up-in-arms if John McCain visited the distillery. But after the firestorm that Maker's Mark received, enough to make them apologize and profess their lack of support for Hillary, I'm disappointed that their customers are just more of the same ignorant and close-minded people that reinforce America's stereotype.
+
+This doesn't change the taste of Maker's Mark or my appreciation of the product, but when I see it in my bar I can't help but be reminded of what the red wax on the bottle really signifies.
+
+**Update:** There's "photos of the event":http://s296.photobucket.com/albums/mm173/kmissik/. Even more interesting that this wasn't just a drop-in, this was a real event. Even more insane that Maker's Mark downplayed the event and apologized to their hillbilly customers.

@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2004-08-15 21:10:42+00:00
+layout: post
+slug: '2725'
+title: No Content Found
+wordpress_id: 2725
+---
+
+The Hewlett-Packard/Compaq merger "has been a flop":http://www.nytimes.com/2004/08/15/business/yourmoney/15watch.html?ex=1250222400&en=60dde802afe1732c&ei=5090&partner=rssuserland. Just as I predicted two years ago.

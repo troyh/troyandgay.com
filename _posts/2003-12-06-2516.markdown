@@ -1,0 +1,11 @@
+---
+author: troyh
+comments: true
+date: 2003-12-06 19:53:17+00:00
+layout: post
+slug: '2516'
+title: No Content Found
+wordpress_id: 2516
+---
+
+Europeans [use the internet more than magazines](http://www.netimperative.com/cmn/viewdoc.jsp?cat=all&docid=BEP1_News_0000059967) now and are closing in on newspapers. The inevitable is coming faster than even I thought.
