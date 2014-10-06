@@ -6,10 +6,12 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: Georgia, Serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
+
+$sansserif-font:  Helvetica;
 
 $spacing-unit:     30px;
 
@@ -20,6 +22,8 @@ $brand-color:      #2a7ae2;
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
+
+$purple-color:    #a17db1;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -47,3 +51,36 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+.site-header {
+  // background-image: url("/troyandgay.com/img/TG.png");
+  // background-repeat: no-repeat;
+  // background-position: left top;
+  position:fixed;
+  left:0;
+  top:0;
+  width:150px;
+  height:150px;
+}
+
+.post-header .post-title,
+.post-list h3 a {
+  font-family: $sansserif-font;
+  font-weight: bold;
+  font-size: 200%;
+  color: lighten($text-color,40%)
+}
+.post-list li {
+  margin-top: 5em;
+}
+.post-meta {
+  float:right;
+  font-family: $sansserif-font;
+  color: $purple-color;
+}
+
+.site-footer {
+  font-family: $sansserif-font;
+  color: lighten($text-color,40%);
+  background-color: lighten($purple-color,15%);
+}
