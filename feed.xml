@@ -1,30 +1,186 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 06 Oct 2014 14:35:20 -0700</pubDate>
+    <lastBuildDate>Mon, 06 Oct 2014 14:35:20 -0700</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Huskies vs Stanford</title>
+        <description>&lt;p&gt;I took Hudson to the Huskies game today. He couldn’t see when everyone stood up and was “overheating” in the sun. He made it to halftime before a bathroom break, a pretzel and a cupcake. We spent the 2nd half on the concourse in the shade. Huskies lost 20-13 but it was a close game. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4895.jpg&quot;&gt;&lt;img src=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4895.jpg&quot; alt=&quot;IMG_4895.JPG&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;After the game, Chloe came to babysit and Gay and I went out to dinner at &lt;a href=&quot;http://terraplata.com/&quot;&gt;Terra Plata&lt;/a&gt; before a great talk by &lt;a href=&quot;http://robertreich.org/&quot;&gt;Robert Reich&lt;/a&gt; at &lt;a href=&quot;http://www.townhallseattle.org/&quot;&gt;Town Hall&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 27 Sep 2014 17:31:59 -0700</pubDate>
+        <link>http://yourdomain.com/our%20life/2014/09/27/huskies-vs-stanford.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/our%20life/2014/09/27/huskies-vs-stanford.html</guid>
+        
+        
+        <category>our life</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Hop harvest</title>
+        <description>&lt;p&gt;The kids and I picked my 2nd-year hops today. I joked that they should go pick the hops for me but they wanted to and loved it, especially climbing on the ladder and talking about how much beer they’re gonna make. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4887.jpg&quot;&gt;&lt;img src=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4887.jpg&quot; alt=&quot;IMG_4887.JPG&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the vines did better than the others… left to right, Chinook, Cascade, Centennial and Columbus:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4886.jpg&quot;&gt;&lt;img src=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4886.jpg&quot; alt=&quot;IMG_4886.JPG&quot; /&gt;&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;We watched “Muppets Most Wanted” after dinner and Havana said she liked picking hops more than the movie. And she asked if we could pick hops every year. Weird; you never know what they’ll like.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Sep 2014 17:56:55 -0700</pubDate>
+        <link>http://yourdomain.com/our%20life/2014/09/20/hop-harvest.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/our%20life/2014/09/20/hop-harvest.html</guid>
+        
+        
+        <category>our life</category>
+        
+      </item>
+    
+      <item>
+        <title>Things I broke in 48 hours</title>
+        <description>&lt;p&gt;iPad Air, elliptical machine, 10ml pipette, pH meter probe, bike tire inner tube. Gay broke the coffee thermos. Not a good couple days for fragile things around here.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Sep 2014 18:30:46 -0700</pubDate>
+        <link>http://yourdomain.com/our%20life/2014/09/14/things-i-broke-in-48-hours.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/our%20life/2014/09/14/things-i-broke-in-48-hours.html</guid>
+        
+        
+        <category>our life</category>
+        
+      </item>
+    
+      <item>
+        <title>I broke my elliptical machine</title>
+        <description>&lt;p&gt;I’ve noticed a clicking in the elliptical machine for the last couple weeks so I decided to open it up and see what the problem is. I found a broken piece of steel in the left crank arm. That must mean my legs are stronger than steel!&lt;/p&gt;
+
+&lt;p&gt;I zip-tied the broken piece to keep it from moving so I can keep using it. This machine has been a big part of my life for almost 8 years but it’s time to retire it and get a new one.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4881.jpg&quot;&gt;&lt;img src=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4881.jpg&quot; alt=&quot;IMG_4881.JPG&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Update: the very next run broke it for good. The bolt on the other side of the arm snapped while I was running — surprised I didn’t get hurt.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 13 Sep 2014 20:10:51 -0700</pubDate>
+        <link>http://yourdomain.com/our%20life/2014/09/13/i-broke-my-elliptical-machine.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/our%20life/2014/09/13/i-broke-my-elliptical-machine.html</guid>
+        
+        
+        <category>our life</category>
+        
+      </item>
+    
+      <item>
+        <title>Hudson&#39;s 6th birthday party</title>
+        <description>&lt;p&gt;We celebrated Hudson’s birthday today with a football party. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4866.jpg&quot;&gt;&lt;img src=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4866.jpg&quot; alt=&quot;IMG_4866.JPG&quot; /&gt;&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4873.jpg&quot;&gt;&lt;img src=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4873.jpg&quot; alt=&quot;IMG_4873.JPG&quot; /&gt;&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4876.jpg&quot;&gt;&lt;img src=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4876.jpg&quot; alt=&quot;IMG_4876.JPG&quot; /&gt;&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4877.jpg&quot;&gt;&lt;img src=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4877.jpg&quot; alt=&quot;IMG_4877.JPG&quot; /&gt;&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4871.jpg&quot;&gt;&lt;img src=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4871.jpg&quot; alt=&quot;IMG_4871.JPG&quot; /&gt;&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4880.jpg&quot;&gt;&lt;img src=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4880.jpg&quot; alt=&quot;IMG_4880.JPG&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 05 Sep 2014 22:05:52 -0700</pubDate>
+        <link>http://yourdomain.com/our%20life/2014/09/05/hudsons-6th-birthday-party.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/our%20life/2014/09/05/hudsons-6th-birthday-party.html</guid>
+        
+        
+        <category>our life</category>
+        
+      </item>
+    
+      <item>
+        <title>School 2014-2015</title>
+        <description>&lt;p&gt;First day of school, Hudson is in 1st grade and Havana is in 2nd grade. Eva starts 3-day-a-week preschool next Wednesday. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4836.jpg&quot;&gt;&lt;img src=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4836.jpg&quot; alt=&quot;IMG_4836.JPG&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://troyandgay.files.wordpress.com/2014/09/img_0370.jpg&quot;&gt;&lt;img src=&quot;https://troyandgay.files.wordpress.com/2014/09/img_0370.jpg&quot; alt=&quot;IMG_0370.JPG&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Sep 2014 19:59:08 -0700</pubDate>
+        <link>http://yourdomain.com/our%20life/2014/09/03/school-2014-2015.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/our%20life/2014/09/03/school-2014-2015.html</guid>
+        
+        
+        <category>our life</category>
+        
+      </item>
+    
+      <item>
+        <title>NFL Play60 Fun Run</title>
+        <description>&lt;p&gt;Hudson ran the &lt;a href=&quot;http://nflrunseries.com/seahawks/&quot;&gt;NFL Play60 Fun Run&lt;/a&gt; this morning at Century Link field to kick off the NFL season. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4834.jpg&quot;&gt;&lt;img src=&quot;https://troyandgay.files.wordpress.com/2014/09/img_4834.jpg&quot; alt=&quot;IMG_4834.JPG&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Sep 2014 12:07:42 -0700</pubDate>
+        <link>http://yourdomain.com/our%20life/2014/09/01/nfl-play60-fun-run.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/our%20life/2014/09/01/nfl-play60-fun-run.html</guid>
+        
+        
+        <category>our life</category>
+        
+      </item>
+    
+      <item>
+        <title>Happy Birthday, Hudson</title>
+        <description>&lt;p&gt;Hudson turned 6 today. He opened his presents, we had Pagliacci pizza for dinner (his favorite) and then we walked — well, the kids rode scooters and Havana rode her bike — to Hello Robin for ice cream. Gay even brought a candle for his ice cream cone. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://troyandgay.files.wordpress.com/2014/08/img_4826.jpg&quot;&gt;&lt;img src=&quot;https://troyandgay.files.wordpress.com/2014/08/img_4826.jpg&quot; alt=&quot;IMG_4826.JPG&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;6 years ago today: &lt;a href=&quot;http://troyandgay.com/2008/08/25/hudson-2/&quot;&gt;his birth post&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Aug 2014 22:58:51 -0700</pubDate>
+        <link>http://yourdomain.com/our%20life/2014/08/25/happy-birthday-hudson-5.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/our%20life/2014/08/25/happy-birthday-hudson-5.html</guid>
+        
+        <category>hudson</category>
+        
+        
+        <category>our life</category>
+        
+      </item>
+    
+      <item>
+        <title>Mother-in-law is visiting</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://troyandgay.files.wordpress.com/2014/08/img_4776.jpg&quot;&gt;&lt;img src=&quot;https://troyandgay.files.wordpress.com/2014/08/img_4776.jpg&quot; alt=&quot;IMG_4776.JPG&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 Aug 2014 17:34:22 -0700</pubDate>
+        <link>http://yourdomain.com/our%20life/2014/08/16/mother-in-law-is-visiting.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/our%20life/2014/08/16/mother-in-law-is-visiting.html</guid>
+        
+        
+        <category>our life</category>
+        
+      </item>
+    
+      <item>
+        <title>Telling me what I already know</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://gizmodo.com/where-i-should-live-according-to-math-1622376715?utm_campaign=socialflow_gizmodo_twitter&amp;amp;utm_source=gizmodo_twitter&amp;amp;utm_medium=socialflow&quot;&gt;Gizmodo proves&lt;/a&gt; that Seattle’s Capitol Hill neighborhood is the best neighborhood in the country to live in. Can’t argue with math!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 Aug 2014 16:24:01 -0700</pubDate>
+        <link>http://yourdomain.com/our%20life/2014/08/16/telling-me-what-i-already-know.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/our%20life/2014/08/16/telling-me-what-i-already-know.html</guid>
+        
+        
+        <category>our life</category>
+        
+      </item>
+    
   </channel>
 </rss>
