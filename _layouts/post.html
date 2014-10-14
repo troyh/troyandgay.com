@@ -12,4 +12,14 @@ layout: default
     {{ content }}
   </article>
 
+  {% if page.tags.size > 0 %}
+  <footer class="post-meta">
+  <ul>
+  {% for tag in page.tags %}
+    <li class="badge badge-primary">{{tag}}</li>
+  {% endfor %}
+  </ul>
+  </footer>
+  {%endif%}
+
 </div>
