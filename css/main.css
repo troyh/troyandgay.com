@@ -460,6 +460,9 @@ pre {
 .post-list li {
   margin-top: 5em; }
 
+.tag-list {
+  font-family: Helvetica; }
+
 .post-meta {
   float: right;
   font-family: Helvetica;
@@ -469,3 +472,7 @@ pre {
   font-family: Helvetica;
   color: #777777;
   background-color: #c4adce; }
+
+.badge a {
+  color: #fdfdfd;
+  text-decoration: none; }
