@@ -73,6 +73,9 @@ $on-laptop:        800px;
 .post-list li {
   margin-top: 5em;
 }
+.tag-list {
+  font-family: $sansserif-font;
+}
 .post-meta {
   float:right;
   font-family: $sansserif-font;
@@ -83,4 +86,9 @@ $on-laptop:        800px;
   font-family: $sansserif-font;
   color: lighten($text-color,40%);
   background-color: lighten($purple-color,15%);
+}
+
+.badge a {
+  color: $background-color;
+  text-decoration: none;
 }

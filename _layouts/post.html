@@ -16,7 +16,7 @@ layout: default
   <footer class="post-meta">
   <ul>
   {% for tag in page.tags %}
-    <li class="badge badge-primary">{{tag}}</li>
+    <li class="badge badge-primary"><a href="/tag/{{tag}}">{{tag}}</a></li>
   {% endfor %}
   </ul>
   </footer>

@@ -1,5 +1,5 @@
 # Site settings
-title: T & G
+title: T&G
 email: troy.hakala@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   The site for our friends, family and stalkers.
@@ -12,3 +12,7 @@ github_username:  troyh
 markdown: kramdown
 
 paginate: 5
+
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty

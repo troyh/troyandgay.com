@@ -14,6 +14,13 @@ layout: default
         </h3>
         <article>
           {{post.content}}
+          {% if post.tags.size > 0 %}
+          <ul class="tag-list text-right">
+          {% for tag in post.tags %}
+            <li class="badge badge-primary"><a href="/tag/{{tag}}">{{tag}}</a></li>
+          {% endfor %}
+          </ul>
+          {%endif%}
         </article>
       </li>
     {% endfor %}
