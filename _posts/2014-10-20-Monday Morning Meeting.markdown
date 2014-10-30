@@ -1,8 +1,8 @@
 ---
-Title: Monday Morning Meeting
-Date: 2014-10-19
-Tags: Havana
-Layout: post
+title: Monday Morning Meeting
+date: 2014-10-19
+tags: Havana
+layout: post
 ---
 
 Havana's 2nd grade class ran the (K-5, a.k.a. Lower School's) Monday Morning Meeting this week, which is a big deal. They did a presentation on composting (only in Seattle!) and Havana gave the finalé, thanking everyone for coming, ushering the 5th graders out and reminding everyone to compost.
