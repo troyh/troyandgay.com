@@ -1,0 +1,98 @@
+#!/usr/bin/env coffee
+fs=require 'fs'
+fspath=require 'path'
+async=require 'async'
+marked=require 'marked-metadata'
+
+if process.argv.length isnt 3
+  console.log "Usage: autopost <directory>"
+  return
+
+makeDate=(stats) ->
+  [
+    stats.ctime.getFullYear()
+    stats.ctime.getMonth()+1
+    stats.ctime.getDate()
+  ].join "-"
+
+createPostFromString=(metadata,text) ->
+  matches=text.match /!\[(.*)\]\((.*)\)/g
+  for match in matches or []
+    [dummy,title,href]=match.match /!\[(.*)\]\((.*)\)/
+    text=text.replace match, "![#{title}](/img/#{href})"
+
+  # Create the post file
+  filename=
+    "_posts/#{metadata.date}-#{metadata.title.replace(' ','-')}.markdown"
+
+  fs.writeFileSync filename, text
+  console.log "Created #{filename}"
+
+  # Move images to the right place
+  for match in (matches or [])
+    [dummy,title,href]=match.match /!\[(.*)\]\((.*)\)/
+    console.log "Moving #{process.argv[2]}/#{href} to img/#{href}"
+    fs.renameSync "#{process.argv[2]}/#{href}", "img/#{href}"
+    console.log "New photo: #{href}"
+
+createPostFromFile=(metadata,originalfile) ->
+  contents=fs.readFileSync originalfile
+  if not contents
+    console.log "Failed to read #{originalfile}"
+  else
+    createPostFromString metadata, contents.toString()
+
+handler_tiers=[
+  [
+    (path,stats) -> # Handle markdown files (and images they reference)
+      ext=fspath.extname(path)
+      if ext not in [".md",".markdown"]
+        return false
+
+      md=new marked path
+      # console.log md.metadata()
+      # console.log md.markdown()
+      metadata=md.metadata()
+      metadata.title?=fspath.basename(path,ext)
+      metadata.date?=makeDate(stats)
+
+      createPostFromFile metadata, path
+      fs.unlinkSync path
+
+      return true
+  ]
+  [
+    (path,stats) -> # Handle images that are left over
+      # Make a simple post out of each image
+      ext=fspath.extname(path)
+      switch ext.toLowerCase()
+        when ".jpg", ".jpeg", ".png"
+          console.log "#{path} is a photo"
+          metadata=
+            layout: "post"
+            title: fspath.basename(path,ext)
+            date: makeDate(stats)
+          metadata_text=[]
+          for k,v of metadata
+            metadata_text.push "#{k}: #{v}"
+          text="""
+          ---
+          #{metadata_text.join("\n")}
+          ---
+          ![](#{fspath.basename(path)})
+          """
+          createPostFromString metadata, text
+          return true
+        else
+          return false
+  ]
+]
+
+for tier in handler_tiers
+  # Ignore hidden files
+  for file in fs.readdirSync process.argv[2] when file[0] isnt "."
+    stats=fs.statSync "#{process.argv[2]}/#{file}"
+    for handler in tier
+      if handler "#{process.argv[2]}/#{file}",stats
+        break
+console.log "Done."
