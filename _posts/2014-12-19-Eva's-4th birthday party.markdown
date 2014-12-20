@@ -3,7 +3,7 @@ title: Eva's 4th birthday party
 date: 2014-12-19
 ---
 
-We had Eva's birthday party this afternoon. Her entire preschool class came. Kelly, her first nanny, came over from Vashon too, although Eva does not even remember her, although Havana and Hudson do.
+We had Eva's birthday party this afternoon. Her entire preschool class came. Kelly, her first nanny, came over from Vashon too. Eva does not even remember her, although Havana and Hudson do.
 
 ![](/img/IMG_5076.jpg)
 
