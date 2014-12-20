@@ -1,0 +1,9 @@
+---
+layout: post
+title: Drone photo of Seattle
+date: 2014-12-10
+---
+
+A cool photo taken by a local skateboard shop using a drone, which has [attracted the attention of the FAA](http://www.geekwire.com/2014/drone-takes-epic-holiday-photo-flying-above-seattles-space-needle/). Note Mt Rainier in the distance.
+
+![](/img/IMG_5071.jpg)
