@@ -16,3 +16,10 @@ paginate: 5
 tag_page_layout: tag_page
 tag_page_dir: tag
 tag_permalink_style: pretty
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "post"
