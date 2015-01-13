@@ -3,16 +3,24 @@ fs=require 'fs'
 fspath=require 'path'
 async=require 'async'
 marked=require 'marked-metadata'
+gm=require 'gm'
 
 if process.argv.length isnt 3
   console.log "Usage: autopost <directory>"
   return
 
+pad=(n, width, z = '0') ->
+  n = n + ''
+  if n.length >= width
+    n
+  else
+    new Array(width - n.length + 1).join(z) + n
+
 makeDate=(stats) ->
   [
     stats.ctime.getFullYear()
-    stats.ctime.getMonth()+1
-    stats.ctime.getDate()
+    pad(stats.ctime.getMonth()+1,2)
+    pad(stats.ctime.getDate(),2)
   ].join "-"
 
 createPostFromString=(metadata,text) ->
@@ -31,16 +39,31 @@ createPostFromString=(metadata,text) ->
   # Move images to the right place
   for match in (matches or [])
     [dummy,title,href]=match.match /!\[(.*)\]\((.*)\)/
-    console.log "Moving #{process.argv[2]}/#{href} to img/#{href}"
-    fs.renameSync "#{process.argv[2]}/#{href}", "img/#{href}"
-    console.log "New photo: #{href}"
+    if fs.existsSync "#{process.argv[2]}/#{href}"
+      console.log "Moving #{process.argv[2]}/#{href} to img/#{href}"
+      if fs.existsSync "img/#{href}"
+        console.log "Won't overwrite existing image: img/#{href}"
+      else
+        # Use GraphicsMagick to save #{process.argv[2]}/#{href} to img/#{href}
+        gm("#{process.argv[2]}/#{href}")
+          .autoOrient()
+          .write "img/#{href}", (err) ->
+            if err
+              console.log "Unable to write image file: img/#{href}"
+            else
+              fs.unlinkSync "#{process.argv[2]}/#{href}"
+              console.log "New photo: #{href}"
+    else
+      console.log "#{process.argv[2]}/#{href} doesn't exist"
 
 createPostFromFile=(metadata,originalfile) ->
   contents=fs.readFileSync originalfile
   if not contents
     console.log "Failed to read #{originalfile}"
   else
+    console.log "New post: #{fspath.basename(originalfile)}"
     createPostFromString metadata, contents.toString()
+    console.log ""
 
 handler_tiers=[
   [
@@ -50,14 +73,36 @@ handler_tiers=[
         return false
 
       md=new marked path
-      # console.log md.metadata()
-      # console.log md.markdown()
-      metadata=md.metadata()
+      md.defineTokens('<!--','-->')
+      origininal_metadata={}
+      try
+        original_metadata=md.metadata()
+      catch error
+        # Do nothing, it's okay to not have metadata
+
+      # Lowercase all metadata keywords
+      metadata={}
+      for k,v of original_metadata
+        keyword=k.toLowerCase()
+        metadata[keyword]=switch keyword
+          when "date"
+            [y,m,d]=v.trim().split('-')
+            [
+              y
+              pad(m,2)
+              pad(d,2)
+            ].join "-"
+          else
+            v
+
       metadata.title?=fspath.basename(path,ext)
       metadata.date?=makeDate(stats)
 
+      # Make sure date string is YYYY-MM-DD
+      metadata.date=
+
       createPostFromFile metadata, path
-      fs.unlinkSync path
+      # fs.unlinkSync path
 
       return true
   ]
@@ -81,7 +126,7 @@ handler_tiers=[
           ---
           ![](#{fspath.basename(path)})
           """
-          createPostFromString metadata, text
+          # createPostFromString metadata, text
           return true
         else
           return false

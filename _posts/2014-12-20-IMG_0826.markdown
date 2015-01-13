@@ -1,9 +1,0 @@
----
-layout: post
-title: Hour of Code
-date: 2014-12-16
----
-
-Havana and Audrey at school (on Pajama Day!) doing an [Hour of Code](http://csedweek.org). She spent several days "programming" on [code.org](https://learn.code.org) and Hudson got into it too. She's just starting to understand what I did for most of my life.
-
-![](/img/IMG_0826.jpg)

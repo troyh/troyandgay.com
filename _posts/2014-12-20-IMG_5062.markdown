@@ -1,6 +1,0 @@
----
-layout: post
-title: Sleeping Barley
-date: 2014-11-30
----
-![](/img/IMG_5062.jpg)
