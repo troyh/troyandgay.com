@@ -29,6 +29,13 @@ createPostFromString=(metadata,text) ->
     [dummy,title,href]=match.match /!\[(.*)\]\((.*)\)/
     text=text.replace match, "![#{title}](/img/#{href})"
 
+  # Prepend metadata to text
+  s="---\n"
+  for k,v of metadata
+    s+="#{k}: #{v}\n"
+  s+="---\n"
+  text=s + text
+
   # Create the post file
   filename=
     "_posts/#{metadata.date}-#{metadata.title.replace(' ','-')}.markdown"
@@ -99,7 +106,6 @@ handler_tiers=[
       metadata.date?=makeDate(stats)
 
       # Make sure date string is YYYY-MM-DD
-      metadata.date=
 
       createPostFromFile metadata, path
       # fs.unlinkSync path
