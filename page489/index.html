@@ -39,29 +39,11 @@
     
       <li>
         <article>
-          <span class="post-meta">Sep 23, 2002</span>
+          <span class="post-meta">Sep 29, 2002</span>
           <h3 class="post-title">
-            <a class="post-link" href="/2002/09/23/swapping-caps-lock-control-on-macos-x.html">Swapping Caps Lock & Control on MacOS X</a>
+            <a class="post-link" href="/2002/09/29/nytimes-travel-actually-gets-seattle.html">NYTimes Travel actually gets seattle</a>
           </h3>
-            <p>Just so I can find this again when I need it later, here’s how you make USB keyboards swap Caps Lock &amp; Control under MacOS X:</p>
-
-<ol>
-  <li>Edit /System/Library/Extensions/IOUSBFamily.kext/ Contents/PlugIns/AppleUSBKeyboard.kext/Contents/Info.plist and add:</li>
-</ol>
-
-<key>Swap control and capslock</key>
-<integer>1</integer>
-
-<p>under IOKitPersonalities/AppleUSBKeyboard. Here is a properly edited Info.plist for the first release of 10.1, but be aware that other parts of the file may be incorrect for future versions of the driver. You can, of course, use the PropertyListEditor application that comes with the developer tools to add the property.</p>
-
-<ol>
-  <li>
-    <p>Remove the file /System/Library/Extensions.mkext. This is a device driver cache. The modified AppleUSBKeyboard driver will not be loaded if this exists. The next reboot will rebuild this file with the modified AppleUSBKeyboard driver. (And the reboot will take a bit longer than normal as it builds the file.)</p>
-  </li>
-  <li>
-    <p>Reboot.</p>
-  </li>
-</ol>
+            <p><a href="http://www.nytimes.com/2002/09/29/travel/sophisticated/ST-LIST.html">Seattle: An Insider’s Address Book</a></p>
 
             
         </article>
@@ -69,11 +51,11 @@
     
       <li>
         <article>
-          <span class="post-meta">Sep 23, 2002</span>
+          <span class="post-meta">Sep 27, 2002</span>
           <h3 class="post-title">
-            <a class="post-link" href="/2002/09/23/ex-xbox.html">ex-Xbox</a>
+            <a class="post-link" href="/2002/09/27/hungry-lawyer.html">Hungry Lawyer</a>
           </h3>
-            <p><a href="http://rss.com.com/2100-1040-958943.html?type=pt&amp;part=rss&amp;tag=feed&amp;subj=news">Xbox seeks to ring in holiday sales</a>, but it’ll be a failure. After costing the company $2 billion,  will give up and kill the Xbox group in March or April of next year. Xbox will become a joke in video game history along with Intellivision and Coleco: “Remember when Microsoft made a video game machine?”</p>
+            <p>Took the ferry to downtown again and met with an attorney that we’re not sure we like or not.  Had dinner and drinks with Reid, Marissa and Joel at a Japanese place in the ID.  (Our second bus ride in a week!)</p>
 
             
         </article>
@@ -81,11 +63,11 @@
     
       <li>
         <article>
-          <span class="post-meta">Sep 22, 2002</span>
+          <span class="post-meta">Sep 26, 2002</span>
           <h3 class="post-title">
-            <a class="post-link" href="/2002/09/22/bleak-end-to-2002.html">Bleak end to 2002</a>
+            <a class="post-link" href="/2002/09/26/poor-martha.html">Poor Martha</a>
           </h3>
-            <p><a href="http://online.wsj.com/article/0,,SB1032470181799877355,00.html?mod=home_whats_news_us">WSJ.com:</a> Wall Street analysts have gotten a lot of things wrong in the past couple of years, but when they said this September’s preannouncement season was going to be a doozy, they couldn’t have been more right.</p>
+            <p>Oh my, <a href="http://online.wsj.com/article/0,,SB1032988339939709233,00.html?mod=home_whats_news_us"> the Merrill Aide is pleading guilty and will cooperate on Stewart Probe</a>. Also, rumors are that Waksal  is trying to plea bargain too, possibly to provide info about Martha Stewart’s trade.</p>
 
             
         </article>
@@ -93,11 +75,11 @@
     
       <li>
         <article>
-          <span class="post-meta">Sep 21, 2002</span>
+          <span class="post-meta">Sep 26, 2002</span>
           <h3 class="post-title">
-            <a class="post-link" href="/2002/09/21/saturday-night-in-seattle.html">Saturday night in Seattle</a>
+            <a class="post-link" href="/2002/09/26/new-httpd.html">New HTTPD!</a>
           </h3>
-            <p>Today is the first day that the Vashon ferries run to downtown Seattle. So we went into the city for dinner at Oceanaire and then to Dahlia for a drink. We even rode the bus to get back on the ferry home.</p>
+            <p>I just checked in a new httpd that speeds up browsing. It does this simply by not doing 2 joins that are unnecessary when just getting the list of categories and their counts for the browse hierarchy. In tests on dublin, the query went from 1.12 seconds to 0.21 seconds (81% faster). Note that this only affects the “simple” browsing case; not when browsing My Cookbook, another user’s recipes, search results, etc. <strong>Test it today</strong> so I can push it to the live site.</p>
 
             
         </article>
@@ -105,11 +87,11 @@
     
       <li>
         <article>
-          <span class="post-meta">Sep 20, 2002</span>
+          <span class="post-meta">Sep 24, 2002</span>
           <h3 class="post-title">
-            <a class="post-link" href="/2002/09/20/recipe-counter-4.html">Recipe Counter</a>
+            <a class="post-link" href="/2002/09/24/ms-will-outsmart-linux.html">MS will "outsmart" Linux</a>
           </h3>
-            <p><strong>38,000</strong> recipes!</p>
+            <p>Ballmer <a href="http://news.com.com/2100-1001-959165.html?tag=dd.ne.dht.nl-sty.0">is clueless about open source</a>. They actually think the MVPs are going to equate to open source coders? Ever meet an MVP? A businessman (Ballmer) will never understand what is about open source that is attractive. When all you have is a hammer, everything looks like a nail. When you are a businessman, everything looks like a dollar.</p>
 
             
         </article>
