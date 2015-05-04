@@ -24,10 +24,10 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 $purple-color:    #a17db1;
+$green-color: darken(#ccff33,15%);
 
 $on-palm:          600px;
 $on-laptop:        800px;
-
 
 
 // Using media queries with like this:
@@ -61,22 +61,41 @@ $on-laptop:        800px;
   top:0;
   width:150px;
   height:150px;
+  z-index:1000;
 }
 
 article .post-title,
 article .post-title a {
   font-family: $sansserif-font;
   font-weight: bold;
-  font-size: 1.5em;
+  font-size: 1.35em;
   color: lighten($text-color,40%)
 }
+article .post-content {
+  padding-left:1em;
+  padding-right:1em;
+  line-height:1.7em;
+}
+article .post-content a {
+  color:saturate($purple-color,15%);
+  border-bottom:3px solid $green-color;
+  // padding-bottom:0px;
+  // margin-bottom:0px;
+  margin-top:-10px;
+  // margin-bottom:-5px;
+}
+article .post-content a:hover {
+  text-decoration:none;
+  border-bottom:3px solid darken($green-color,10%);
+}
 .post-list article {
-  margin-top: 5em;
+  margin-bottom: 5em;
 }
 
 article img {
   padding:3px;
 }
+
 
 article h1,
 article h2,
@@ -114,4 +133,5 @@ article h6 { font-size: 100%; }
 .badge a {
   color: $background-color;
   text-decoration: none;
+  border:none;
 }
