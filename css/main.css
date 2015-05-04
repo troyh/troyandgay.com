@@ -519,6 +519,7 @@ article h6 {
   color: #777777;
   background-color: #c4adce; }
 
+article .badge a,
 .badge a {
   color: #fdfdfd;
   text-decoration: none;
