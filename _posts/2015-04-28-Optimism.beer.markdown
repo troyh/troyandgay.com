@@ -1,0 +1,13 @@
+---
+date: 2015-04-28
+tags: 
+title: Optimism.beer
+---
+<!--
+date: 2015-04-28
+tags: 
+-->
+
+It took over 7 months but I *finally* registered [optimism.beer](http://optimism.beer) today. I've registered lots of domains over the years and they all took seconds to complete. Not this one...
+
+The registrar for `.beer` started taking requests for domains in September 2014. I put in my request and then they went silent to me – I couldn't get any response via email or phone. Eventually, they added an online chat tech support feature to their web site which got me in contact with a person. I was promised I'd have the domain registered that day. That day was February 11. Since then I was told various "technical problems" are preventing them from registering domains. I stopped trying for many weeks and today, on a whim while on vacation, I tried to register it through their web site and this time it worked. Now I need to see if I can transfer it to my favorite registrar to avoid similar problems in the future!
