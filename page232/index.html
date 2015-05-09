@@ -39,6 +39,26 @@
       
         <li>
           <article>
+            <span class="post-meta">Feb 16, 2005</span>
+            <h3 class="post-title">
+              <a class="post-link" href="/2005/02/16/supermicro-p8sci-boot-problem.html">Supermicro P8SCI boot problem</a>
+            </h3>
+            <div class="post-content">
+              <p>I’m posting this to help people who have the same problem I did and search for a solution can find it by searching for “Supermicro P8SCI boot problem” instead of wasting days like I did with no info….</p>
+
+<p>We got two new identical servers last week that have the new <a href="http://www.supermicro.com/products/motherboard/P4/E7221/P8SCi.cfm">Supermicro P8SCI</a> motherboard in them. After installing linux on them, they wouldn’t reboot reliably. Roughly 70% of the boots failed – the machine just crashed right after the GRUB loading stage. This was the same on both machines, which made me believe it was a software problem rather than a hardware problem – hardware can be flakey, but two machines failing the same way is unlikely.</p>
+
+<p>After a weekend of trial-and-error trying to figure out if the problem was GRUB or the linux kernel or a hardware problem and doing a lot of internet research, we took it to the vendor on Monday, <a href="http://siliconmechanics.com">Silicon Mechanics</a> (who is great!), and after a few hours they discovered that the BIOS console redirection was causing it. Supermicro hadn’t heard about the bug yet – it’s a new motherboard for them and I’m probably one of the few people who use the BIOS’ console redirection. We turned off console redirection and they boot fine.</p>
+
+<p>On the bright side, we had them install <a href="http://www.intel.com/design/servers/ipmi/">IPMI</a> cards in the machines. I’ve never used IPMI, but is supposed to be a better replacement for console redirection (among other things). So maybe some good did come out of all this wasted time.</p>
+
+              
+            </div>
+          </article>
+        </li>
+      
+        <li>
+          <article>
             <span class="post-meta">Feb 12, 2005</span>
             <h3 class="post-title">
               <a class="post-link" href="/2005/02/12/seattle-times-covers-seattles-polite-but-unfriendly-demeanor.html">Seattle Times Covers Seattle's Polite But Unfriendly Demeanor</a>
@@ -98,22 +118,6 @@
 <p>But even if Firefox is the one thing that made the world a wonderful place and all was right in the industry again, here’s the simple version: Microsoft killed Netscape illegally, were convicted of it twice, and as a settlement, we get the browser born from Netscape as proof that all is wonderful. In other words, Microsoft killed someone and their punishment is that they have to allow that person’s child to live. And that child is our proof that justice works.</p>
 
 <p>Is Firefox really a threat to Internet Explorer? Not according to Microsoft. In November of last year, after Firefox 1.0 was released, <a href="http://news.com.com/Microsoft+says+Firefox+not+a+threat+to+IE/2100-1032_3-5448719.html">Microsoft said that Firefox is not a threat to IE</a>. What did the 2002 settlement change in the last four months?</p>
-
-              
-            </div>
-          </article>
-        </li>
-      
-        <li>
-          <article>
-            <span class="post-meta">Feb 9, 2005</span>
-            <h3 class="post-title">
-              <a class="post-link" href="/2005/02/09/pages.html">Apple Pages!</a>
-            </h3>
-            <div class="post-content">
-              <p>I’ve been looking for a decent word processor to write documentation and it had to do at least HTML output, but preferably XML. I’ve been using Mozilla’s HTML editor, but wanted more of a word-processor. I considered OpenOffice, which does use XML as a file format, but on a Mac it runs within an X11 emulator. I don’t like emulators. Microsoft Word was out even if I could afford it because its XML is crazy proprietary. Then along came Apple’s <a href="http://www.apple.com/iwork/pages/">Pages</a>, which does output in XML, the same open XML as OpenOffice, in fact. So I bought it for a mere $79 and got a <a href="http://www.apple.com/iwork/keynote/">presentation software package</a> to boot (imagine the beautiful presentations I can give to the dogs!).</p>
-
-<p>Pages is the most amazing word processor I’ve ever seen… it’s a little slow even on my fairly speedy (dual 1.25GHz G4) PowerMac, but imagine PageMaker with a real word processor.  It’s what WYSIWYG was supposed to be. Word is a good word processor, but they should be ashamed that after 15 years they haven’t done much of anything to improve the writing experience (simultaneous spell-check was their only innovation and that was 10 years ago in Word 95).</p>
 
               
             </div>
