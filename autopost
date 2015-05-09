@@ -58,8 +58,11 @@ createPostFromString=(metadata,text) ->
             if err
               console.log "Unable to write image file: img/#{href}"
             else
-              fs.unlinkSync "#{process.argv[2]}/#{href}"
               console.log "New photo: #{href}"
+              try
+                fs.unlinkSync "#{process.argv[2]}/#{href}"
+              catch x
+                console.log "Error: unlink failed: #{x}"
     else
       console.log "#{process.argv[2]}/#{href} doesn't exist"
 
