@@ -41,6 +41,20 @@
           <article>
             <span class="post-meta">Sep 24, 2002</span>
             <h3 class="post-title">
+              <a class="post-link" href="/2002/09/24/ms-will-outsmart-linux.html">MS will "outsmart" Linux</a>
+            </h3>
+            <div class="post-content">
+              <p>Ballmer <a href="http://news.com.com/2100-1001-959165.html?tag=dd.ne.dht.nl-sty.0">is clueless about open source</a>. They actually think the MVPs are going to equate to open source coders? Ever meet an MVP? A businessman (Ballmer) will never understand what is about open source that is attractive. When all you have is a hammer, everything looks like a nail. When you are a businessman, everything looks like a dollar.</p>
+
+              
+            </div>
+          </article>
+        </li>
+      
+        <li>
+          <article>
+            <span class="post-meta">Sep 24, 2002</span>
+            <h3 class="post-title">
               <a class="post-link" href="/2002/09/24/send-my-friend-a-pie.html">Send my friend a pie?</a>
             </h3>
             <div class="post-content">
@@ -103,38 +117,6 @@ program of the interpreter
             </h3>
             <div class="post-content">
               <p><a href="http://online.wsj.com/article/0,,SB1032789363675207073,00.html?mod=home_whats_news_us">WSJ.com:</a> <em>Economists are increasingly upbeat about the pace of growth for the third quarter but are marking down their forecasts for the fourth quarter mainly due to fears consumer spending will slow down.</em></p>
-
-              
-            </div>
-          </article>
-        </li>
-      
-        <li>
-          <article>
-            <span class="post-meta">Sep 23, 2002</span>
-            <h3 class="post-title">
-              <a class="post-link" href="/2002/09/23/swapping-caps-lock-control-on-macos-x.html">Swapping Caps Lock & Control on MacOS X</a>
-            </h3>
-            <div class="post-content">
-              <p>Just so I can find this again when I need it later, here’s how you make USB keyboards swap Caps Lock &amp; Control under MacOS X:</p>
-
-<ol>
-  <li>Edit /System/Library/Extensions/IOUSBFamily.kext/ Contents/PlugIns/AppleUSBKeyboard.kext/Contents/Info.plist and add:</li>
-</ol>
-
-<key>Swap control and capslock</key>
-<integer>1</integer>
-
-<p>under IOKitPersonalities/AppleUSBKeyboard. Here is a properly edited Info.plist for the first release of 10.1, but be aware that other parts of the file may be incorrect for future versions of the driver. You can, of course, use the PropertyListEditor application that comes with the developer tools to add the property.</p>
-
-<ol>
-  <li>
-    <p>Remove the file /System/Library/Extensions.mkext. This is a device driver cache. The modified AppleUSBKeyboard driver will not be loaded if this exists. The next reboot will rebuild this file with the modified AppleUSBKeyboard driver. (And the reboot will take a bit longer than normal as it builds the file.)</p>
-  </li>
-  <li>
-    <p>Reboot.</p>
-  </li>
-</ol>
 
               
             </div>
